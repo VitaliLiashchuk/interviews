@@ -77,3 +77,13 @@ Projects:
             * Implemented a collecting system that aggregates metrics from data storages.  
             * Covered the data collecting system with unit tests.
 
+Free time.
+
+     Playing with gamedev trending technologies such as Unreal Engine.
+
+     Courses:
+            https://www.udemy.com/unrealcourse/learn/v4/overview
+
+     Reading professional literature:
+           * Game Engine Architecture, Jason Gregory
+           * Effective Modern C++, Skott Meyers 
