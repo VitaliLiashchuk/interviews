@@ -3,7 +3,6 @@ Vitali Liashchuk
     Skype: vitali.liashchuk
     Email: vitali.liashhuk@gmail.com
 
-
 Developer, Synesis 2017-2018 (1 year)
 Projects:
         slototron.com
@@ -11,7 +10,8 @@ Projects:
         Used intensively: C++, emscripten, javascript
         Done:
             * Implemented paypal payment system
-            * Implemented requests retrying mechanism 
+            * Implemented requests retrying mechanism
+            * Optimized game loading time by running network requests in parallel. 
             * Implemented prototype runnable on Instant Games Platform
 
 Developer, Gambino 2015-2017
@@ -21,8 +21,8 @@ Projects:
         Used intensively: C#, Xamarin, Dart Language 
         Done:
             * Reimplemented from scratch Dart version of the game
-            * Integrated scissor OpenGl mechanism into the game
             * Ported C# in-house game engine on MacOS
+            * Integrated scissor OpenGl mechanism into the game
             * Integrated Firebase push messaging system 
 
 Developer, Synesis/MuGames 2015-2016 (1 year)
@@ -74,4 +74,4 @@ Projects:
 	Used intensively: python, javascript
 	Done:
             * Implemented a collecting system that aggregates metrics from data storages.  
-            * Covered the data collecting code with unit tests. 
+            * Covered the data collecting system with unit tests. 
