@@ -20,10 +20,11 @@ Projects:
         Description: Social Casino Game
         Used intensively: C#, Xamarin, Dart Language 
         Done:
-            * Reimplemented from scratch Dart version of the game
+            * Reimplemented the Dart version of the game from scratch
             * Ported C# in-house game engine on MacOS
             * Integrated scissor OpenGl mechanism into the game
             * Integrated Firebase push messaging system 
+            * Working on converter C# to Dart based on Roslyn compiler
 
 Developer, Synesis/MuGames 2015-2016 (1 year)
 Projects:
