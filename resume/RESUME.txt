@@ -75,4 +75,5 @@ Projects:
         Used intensively: python, javascript
         Done:
             * Implemented a collecting system that aggregates metrics from data storages.  
-            * Covered the data collecting system with unit tests. 
+            * Covered the data collecting system with unit tests.
+
