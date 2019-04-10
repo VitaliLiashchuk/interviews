@@ -8,29 +8,42 @@ Developer, Synesis 2017-2018 (1 year)
 Projects:
         slototron.com
         Description: Social Casino Game
+        Used intensively: C++, emscripten, javascript
+        Done:
+            * Implemented paypal payment system
+            * Implemented requests retrying mechanism 
+            * Implemented prototype runnable on Instant Games Platform
 
-Developer, Gambino 2017-2015
+Developer, Gambino 2015-2017
 Projects:
         Gambino Slots
         Description: Social Casino Game
         Used intensively: C#, Xamarin, Dart Language 
         Done:
+            * Reimplemented from scratch Dart version of the game
+            * Integrated scissor OpenGl mechanism into the game
+            * Ported C# in-house game engine on MacOS
+            * Integrated Firebase push messaging system 
 
 Developer, Synesis/MuGames 2015-2016 (1 year)
 Projects:
         WildRide
         Description:
-        Used intensively: C#, Xamarin
-        Less so: Box2D
+        Used intensively: C#, Xamarin, Box2D
         Done:
-            * Implemented gameplay features
-            * Implemented facebook log-in
-        
+            * Implemented advertising manager with support of different AD providers (vungle,chartboost,unity,etc)
+            * Implemented social plugin system to support different social networks.
+            * Implemented facebook social plugin (log-in, sharings, friends)
+            * Implemented online contests system
+            * Implemented anti-cheaters mechanism
+            * Integrated a binary resource format  
+ 
         Viber Rude Rider
         Desctiption: multi-platform 2D race and shoot game
         Used intensively: C#, Xamarin
         Done:
-            * Integrated authorization through Viber
+            * Implemented Viber social plugin (log-in, sharings, friends)
+            
 
 Developer, Gambino 2015-2015 (7 months)
 Projects:
@@ -41,15 +54,19 @@ Projects:
             * Implemented slots infrastructure with Dart Language
             * Implemented reels engine system
             * Implemented cheat system
+            * Fixed loading issues on IE/Edge browsers 
 
 Developer, Playtika 2013-2015 (2 years 1 month)
 Projects:
-        Caesars Casino
+        Project Name: Caesars Casino
         Description: Social Casino Game
         Used intensively: C#, Xamarin, Autofac, In-house game engine
         Done:
-            * Implemented a bunch of new slot games
-            * Discovering and fixing bugs in the game engine (render system, animation system, sound system)
+            * Implemented a bunch of new slot and mini games
+            * Implemented sound manager
+            * Refactored reels engine
+            * Implemented server requests stub system 
+            * Helped to discover and fix a lot of bugs in game engine (render system, animation system, sound system)
 
 Developer, EPAM Systems Inc 2012-2013 (11 months)
 Projects:
