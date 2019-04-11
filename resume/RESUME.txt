@@ -9,7 +9,8 @@ Projects:
         Description: Social Casino Game
         Used intensively: C++, emscripten, javascript
         Done:
-            * Implemented paypal payment system
+            * Implemented Dto's generator
+            * Implemented payment system using paypal
             * Implemented requests retrying mechanism
             * Optimized game loading time by running network requests in parallel. 
             * Implemented prototype runnable on Instant Games Platform
