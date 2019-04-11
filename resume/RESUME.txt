@@ -3,7 +3,7 @@ Vitali Liashchuk
     Skype: vitali.liashchuk
     Email: vitali.liashhuk@gmail.com
 
-Developer, Synesis 2017-2018 (1 year)
+Developer, Gambino 2015-2017
 Projects:
         slototron.com
         Description: Social Casino Game
@@ -14,8 +14,6 @@ Projects:
             * Optimized game loading time by running network requests in parallel. 
             * Implemented prototype runnable on Instant Games Platform
 
-Developer, Gambino 2015-2017
-Projects:
         Gambino Slots
         Description: Social Casino Game
         Used intensively: C#, Xamarin, Dart Language 
@@ -24,7 +22,7 @@ Projects:
             * Ported C# in-house game engine on MacOS
             * Integrated scissor OpenGl mechanism into the game
             * Integrated Firebase push messaging system 
-            * Working on converter C# to Dart based on Roslyn compiler
+            * Worked on converter C# to Dart based on Roslyn compiler
 
 Developer, Synesis/MuGames 2015-2016 (1 year)
 Projects:
