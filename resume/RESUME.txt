@@ -9,7 +9,6 @@ Projects:
         Description: Social Casino Game
         Used intensively: C++, emscripten, javascript
         Done:
-            * Implemented Dto's generator
             * Implemented payment system using paypal
             * Implemented requests retrying mechanism
             * Optimized game loading time by running network requests in parallel. 
@@ -31,7 +30,7 @@ Projects:
         Description:
         Used intensively: C#, Xamarin, Box2D
         Done:
-            * Implemented advertising manager with support of different AD providers (vungle,chartboost,unity,etc)
+            * Implemented advertising manager with different AD providers support (vungle,chartboost,unity,etc)
             * Implemented social plugin system to support different social networks.
             * Implemented facebook social plugin (log-in, sharings, friends)
             * Implemented online contests system
