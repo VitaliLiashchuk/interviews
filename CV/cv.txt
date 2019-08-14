@@ -12,7 +12,7 @@ Project:
 	    * Implemented competition feature
 	    * Implemented custom scroll table and tabs control.
 
-Developer, Gambino 2015-2017
+Developer, Gambino 2015-2019
 Projects:
         slototron.com
         Description: Social Casino Game
@@ -31,7 +31,9 @@ Projects:
             * Ported C# in-house game engine on MacOS
             * Integrated scissor OpenGl mechanism into the game
             * Integrated Firebase push messaging system 
-            * Worked on converter C# to Dart based on Roslyn compiler
+            * Worked on converter C# to Dart (Based on Roslyn compiler)
+	    * Deep code refactoring. Splitting codebase for specific platforms. 
+	    * Code base preparation to being translated.
 
 Developer, Synesis/MuGames 2015-2016 (1 year)
 Projects:
