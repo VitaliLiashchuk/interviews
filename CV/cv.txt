@@ -3,6 +3,15 @@ Vitali Liashchuk
     Skype: vitali.liashchuk
     Email: vitali.liashhuk@gmail.com
 
+Developer, Glera Games Jun 2019-Present
+Project: 
+	Mahjong Treasure Quest
+	Description: Puzzle
+	Used intensively: C++, cocos2d-x, Cocos Creator
+	Done: 
+	    * Implemented competition feature
+	    * Implemented custom scroll table and tabs control.
+
 Developer, Gambino 2015-2017
 Projects:
         slototron.com
