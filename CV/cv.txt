@@ -10,7 +10,9 @@ Project:
 	Used intensively: C++, cocos2d-x, Cocos Creator
 	Done: 
 	    * Implemented competition feature
-	    * Implemented custom scroll table and tabs control.
+	    * Implemented custom scroll table and tabs control Widgets.
+	    * Active participation in development of new UI system based on in-house CSS parser.
+	    * Implemented object transformations (transform/scale/rotate) for new UI system.
 
 Developer, Gambino 2015-2019
 Projects:
@@ -23,7 +25,7 @@ Projects:
             * Optimized game loading time by running network requests in parallel. 
             * Implemented prototype runnable on Instant Games Platform
 
-        Gambino Slots
+	Gambino Slots
         Description: Social Casino Game
         Used intensively: C#, Xamarin, Dart Language 
         Done:
