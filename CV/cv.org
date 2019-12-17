@@ -20,18 +20,18 @@
 * Developer, Gambino 2015-2019
 ** Projects:
 *** slototron.com
-        Description: Social Casino Game
-        Used intensively: C++, emscripten, javascript
-        Done:
+        *Description:* Social Casino Game
+        *Used intensively:* C++, emscripten, javascript
+        *Done:*
             * Implemented payment system using paypal
             * Implemented requests retrying mechanism
             * Optimized game loading time by running network requests in parallel. 
             * Implemented prototype runnable on Instant Games Platform
 
 *** Gambino Slots
-        Description: Social Casino Game
-        Used intensively: C#, Xamarin, Dart Language 
-        Done:
+        *Description:* Social Casino Game
+        *Used intensively:* C#, Xamarin, Dart Language
+        *Done:*
             * Reimplemented the Dart version of the game from scratch
             * Ported C# in-house game engine on MacOS
             * Integrated scissor OpenGl mechanism into the game
@@ -43,9 +43,9 @@
 * Developer, Synesis/MuGames 2015-2016 (1 year)
 ** Projects:
 *** WildRide
-        Description:
-        Used intensively: C#, Xamarin, Box2D
-        Done:
+        *Description:*
+        *Used intensively:* C#, Xamarin, Box2D
+        *Done:*
             * Implemented advertising manager with different AD providers support (vungle,chartboost,unity,etc)
             * Implemented social plugin system to support different social networks.
             * Implemented facebook social plugin (log-in, sharings, friends)
@@ -55,19 +55,19 @@
             * Implemented a continuous integration system  
  
 *** Viber Rude Rider
-        Desctiption: multi-platform 2D race and shoot game
-        Used intensively: C#, Xamarin
-        Done:
+        *Desctiption:* multi-platform 2D race and shoot game
+        *Used intensively:* C#, Xamarin
+        *Done:*
             * Implemented Viber social plugin (log-in, sharings, friends)
 
 * Developer, Gambino 2015-2015 (7 months)
 ** Projects:
 *** Gambino Slots
-        Description: Social Casino Game
+        *Description:* Social Casino Game
 
-        Used intensively: C#, Xamarin, Dart Language
+        *Used intensively:* C#, Xamarin, Dart Language
 
-        Done:
+        *Done:*
             * Implemented slots infrastructure with Dart Language
             * Implemented reels engine system
             * Implemented cheat system
@@ -76,9 +76,9 @@
 * Developer, Playtika 2013-2015 (2 years 1 month)
 ** Projects:
 *** Project Name: Caesars Casino
-        Description: Social Casino Game
-        Used intensively: C#, Xamarin, Autofac, In-house game engine
-        Done:
+        *Description:* Social Casino Game
+        *Used intensively:* C#, Xamarin, Autofac, In-house game engine
+        *Done:*
             * Implemented a bunch of new slot and mini games
             * Implemented sound manager
             * Refactored reels engine
@@ -87,9 +87,9 @@
 
 * Developer, EPAM Systems Inc 2012-2013 (11 months)
 ** Projects:
-        Description: Monitoring application for large distributed data storage systems.
-        Used intensively: python, javascript
-        Done:
+        *Description:* Monitoring application for large distributed data storage systems.
+        *Used intensively:* python, javascript
+        *Done:*
             * Implemented a collecting system that aggregates metrics from data storages.  
             * Covered the data collecting system with unit tests.
 
