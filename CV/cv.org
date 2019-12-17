@@ -62,7 +62,9 @@
 ** Projects:
 *** Gambino Slots
         Description: Social Casino Game
-        Used intensively: C#, Xamarin, Dart Language 
+
+        Used intensively: C#, Xamarin, Dart Language
+
         Done:
             * Implemented slots infrastructure with Dart Language
             * Implemented reels engine system
