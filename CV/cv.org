@@ -1,8 +1,8 @@
 * Contact Information
 ** Vitali Liashchuk
-**    Phone: +375296176863
-**    Skype: vitali.liashchuk
-**    Email: vitali.liashhuk@gmail.com
+   Phone: +375296176863
+   Skype: vitali.liashchuk
+   Email: vitali.liashhuk@gmail.com
 
 * Developer, Glera Games Jun 2019-Present
 ** Projects:
