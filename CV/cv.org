@@ -1,8 +1,8 @@
 * Contact Information
-- Vitali Liashchuk
--    Phone: +375296176863
--    Skype: vitali.liashchuk
--    Email: vitali.liashhuk@gmail.com
+** Vitali Liashchuk
+**    Phone: +375296176863
+**    Skype: vitali.liashchuk
+**    Email: vitali.liashhuk@gmail.com
 
 * Developer, Glera Games Jun 2019-Present
 ** Projects:
@@ -17,19 +17,19 @@
 
 * Developer, Gambino 2015-2019
 ** Projects:
-        * slototron.com
-        - Description: Social Casino Game
-        - Used intensively: C++, emscripten, javascript
-        - Done:
+        slototron.com
+        Description: Social Casino Game
+        Used intensively: C++, emscripten, javascript
+        Done:
             * Implemented payment system using paypal
             * Implemented requests retrying mechanism
             * Optimized game loading time by running network requests in parallel. 
             * Implemented prototype runnable on Instant Games Platform
 
-	* Gambino Slots
-        - Description: Social Casino Game
-        - Used intensively: C#, Xamarin, Dart Language
-        - Done:
+	Gambino Slots
+        Description: Social Casino Game
+        Used intensively: C#, Xamarin, Dart Language 
+        Done:
             * Reimplemented the Dart version of the game from scratch
             * Ported C# in-house game engine on MacOS
             * Integrated scissor OpenGl mechanism into the game
