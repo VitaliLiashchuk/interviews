@@ -7,11 +7,11 @@
 * Developer, Glera Games Jun 2019-Present
 ** Projects:
 *** Mahjong Treasure Quest
-	/*Description:*/ Puzzle
+	*Description:* Puzzle
 
-	/*Used intensively:*/ C++, cocos2d-x, Cocos Creator
+	*Used intensively:* C++, cocos2d-x, Cocos Creator
 
-	Done:
+	*Done:*
 	    * Implemented competition feature
 	    * Implemented custom scroll table and tabs control Widgets.
 	    * Active participation in development of new UI system based on in-house CSS parser.
