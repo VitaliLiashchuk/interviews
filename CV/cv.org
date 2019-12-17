@@ -6,7 +6,7 @@
 
 * Developer, Glera Games Jun 2019-Present
 ** Projects:
-	*** Mahjong Treasure Quest
+*** Mahjong Treasure Quest
 	*Description:* Puzzle
 	Used intensively: C++, cocos2d-x, Cocos Creator
 	Done: 
@@ -17,7 +17,7 @@
 
 * Developer, Gambino 2015-2019
 ** Projects:
-        slototron.com
+*** slototron.com
         Description: Social Casino Game
         Used intensively: C++, emscripten, javascript
         Done:
@@ -26,7 +26,7 @@
             * Optimized game loading time by running network requests in parallel. 
             * Implemented prototype runnable on Instant Games Platform
 
-	Gambino Slots
+*** Gambino Slots
         Description: Social Casino Game
         Used intensively: C#, Xamarin, Dart Language 
         Done:
@@ -40,7 +40,7 @@
 
 * Developer, Synesis/MuGames 2015-2016 (1 year)
 ** Projects:
-        WildRide
+*** WildRide
         Description:
         Used intensively: C#, Xamarin, Box2D
         Done:
@@ -52,7 +52,7 @@
             * Integrated a binary resources format
             * Implemented a continuous integration system  
  
-        Viber Rude Rider
+*** Viber Rude Rider
         Desctiption: multi-platform 2D race and shoot game
         Used intensively: C#, Xamarin
         Done:
@@ -60,7 +60,7 @@
 
 * Developer, Gambino 2015-2015 (7 months)
 ** Projects:
-        Gambino Slots
+*** Gambino Slots
         Description: Social Casino Game
         Used intensively: C#, Xamarin, Dart Language 
         Done:
@@ -71,7 +71,7 @@
 
 * Developer, Playtika 2013-2015 (2 years 1 month)
 ** Projects:
-        Project Name: Caesars Casino
+*** Project Name: Caesars Casino
         Description: Social Casino Game
         Used intensively: C#, Xamarin, Autofac, In-house game engine
         Done:
