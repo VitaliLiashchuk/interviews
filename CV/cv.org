@@ -44,7 +44,7 @@
             * Integrated Firebase push messaging system 
             * Worked on converter C# to Dart (Based on Roslyn compiler)
             * Deep code refactoring. Splitting codebase for specific platforms.
-	        * Code base preparation to being translated.
+            * Code base preparation to being translated.
 
 * Developer, Synesis/MuGames 2015-2016 (1 year)
 ** Projects:
