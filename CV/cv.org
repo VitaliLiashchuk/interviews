@@ -9,7 +9,7 @@
 *** Mahjong Treasure Quest
 	*Description:* Puzzle \\
 	*Used intensively:* C++, cocos2d-x, Cocos Creator \\
-    *Done:* \\
+	*Description:* Puzzle \\
 
 	    * Implemented competition feature
 	    * Implemented custom scroll table and tabs control Widgets.
