@@ -62,7 +62,7 @@
 
 * Developer, Gambino 2015-2015 (7 months)
 ** Projects:
-*** Gambino Slots
+*** [[https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679][Gambino Slots]]
 **** Description: Social Casino Game
 **** Used intensively: C#, Xamarin, Dart Language\\
 **** Done:
@@ -73,7 +73,7 @@
 
 * Developer, Playtika 2013-2015 (2 years 1 month)
 ** Projects:
-*** Project Name: Caesars Casino
+*** [[https://apps.apple.com/us/app/caesars-casino-official-slots/id603097018][Caesars Casino]]
 **** Description:* Social Casino Game
 **** Used intensively: C#, Xamarin, Autofac, In-house game engine
 **** Done:
