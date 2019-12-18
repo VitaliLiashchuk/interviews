@@ -42,7 +42,7 @@
 
 * Developer, Synesis/MuGames 2015-2016 (1 year)
 ** Projects:
-*** WildRide
+*** [[https://www.youtube.com/watch?v=2PBA6-wSNi0][WildRide]]
 **** Description:
 **** Used intensively: C#, Xamarin, Box2D
 **** Done:
@@ -54,7 +54,7 @@
             * Integrated a binary resources format
             * Implemented a continuous integration system  
  
-*** Viber Rude Rider
+*** [[https://www.youtube.com/watch?v=l7paSgeKoFU][Viber Rude Rider]]
 **** Description: multi-platform 2D race and shoot game
 **** Used intensively:* C#, Xamarin
 **** Done:
