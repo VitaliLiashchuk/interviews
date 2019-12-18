@@ -6,7 +6,6 @@
 
 * Developer, Glera Games Jun 2019-Present
 ** Projects:
-*** Mahjong Treasure Quest
   :PROPERTIES:
   :CUSTOM_ID: mtq
   :END:
