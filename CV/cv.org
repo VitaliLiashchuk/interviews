@@ -1,4 +1,3 @@
-
 * Contact Information
 ** Vitali Liashchuk
    - Phone: +375296176863
@@ -9,10 +8,9 @@
 ** Projects:
 *** [[https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387][Mahjong Treasure Quest]]
 
- *Description:* Puzzle \\
-
- *Used intensively:* C++, cocos2d-x \\
- *Done:*
+ *Description:* Puzzle   
+ *Used intensively:* C++, cocos2d-x   
+ *Done:*   
 
 	    * Implemented competition feature
 	    * Implemented custom scroll table and tabs control Widgets.
@@ -22,9 +20,9 @@
 * Developer, Gambino 2015-2019
 ** Projects:
 *** slototron.com
-**** Description: Social Casino Game
-**** Used intensively: C++, emscripten, javascript
-**** Done:
+    *Description:* Social Casino Game
+    *Used intensively:* C++, emscripten, javascript
+    *Done:
             * Implemented payment system using paypal
             * Implemented requests retrying mechanism
             * Optimized game loading time by running network requests in parallel. 
