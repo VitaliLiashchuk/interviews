@@ -6,18 +6,11 @@
 
 * Developer, Glera Games Jun 2019-Present
 ** Projects:
-  :PROPERTIES:
-  :CUSTOM_ID: mtq
-  :END:
+*** [[https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387][Mahjong Treasure Quest]]
 
-
-  #+NAME: mtq
-  #+CAPTION: MTQ
-  - [[https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387][Mahjong Treasure Quest]]
-
-  *Description:* Puzzle \\
-  *Used intensively:* C++, cocos2d-x, Cocos Creator ::
-  *Done:*
+**** Description: Puzzle
+**** Used intensively: C++, cocos2d-x, Cocos Creator
+**** Done:
 
 	    * Implemented competition feature
 	    * Implemented custom scroll table and tabs control Widgets.
@@ -35,7 +28,7 @@
             * Optimized game loading time by running network requests in parallel. 
             * Implemented prototype runnable on Instant Games Platform
 
-*** Gambino Slots
+*** [[https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679][Gambino Slots]]
         *Description:* Social Casino Game\\
         *Used intensively:* C#, Xamarin, Dart Language\\
         *Done:*
