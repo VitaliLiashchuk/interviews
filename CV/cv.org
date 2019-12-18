@@ -8,7 +8,7 @@
 ** Projects:
 *** [[https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387][Mahjong Treasure Quest]]
 
- *Description:* Puzzle  *Used intensively:* C++, cocos2d-x   \\
+ *Description:* Puzzle \\  *Used intensively:* C++, cocos2d-x   \\
  *Done:* 
 
 	    * Implemented competition feature
