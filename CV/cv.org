@@ -1,3 +1,4 @@
+#+OPTIONS: toc:nil        no default TOC at all
 * Contact Information
 ** Vitali Liashchuk
    - Phone: +375296176863
