@@ -22,7 +22,7 @@
 *** slototron.com
     *Description:* Social Casino Game  
     *Used intensively:* C++, emscripten, javascript  
-    *Done:  
+    *Done:* 
             * Implemented payment system using paypal
             * Implemented requests retrying mechanism
             * Optimized game loading time by running network requests in parallel. 
@@ -56,7 +56,7 @@
  
 *** [[https://www.youtube.com/watch?v=l7paSgeKoFU][Viber Rude Rider]]
     *Description* multi-platform 2D race and shoot game  
-    *Used intensively* C#, Xamarin  
+    *Used intensively:* C#, Xamarin  
     *Done:*  
             * Implemented Viber social plugin (log-in, sharings, friends)
 
@@ -101,3 +101,12 @@
      Reading professional literature:
            * Game Engine Architecture, Jason Gregory
            * Effective Modern C++, Skott Meyers
+
+
+
+
+
+
+
+
+
