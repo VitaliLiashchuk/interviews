@@ -8,9 +8,9 @@
 ** Projects:
 *** [[https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387][Mahjong Treasure Quest]]
 
-**** Description: Puzzle
-**** Used intensively: C++, cocos2d-x, Cocos Creator
-**** Done:
+ *Description:* Puzzle\\
+ *Used intensively:* C++, cocos2d-x, Cocos Creator\\
+ *Done:*
 
 	    * Implemented competition feature
 	    * Implemented custom scroll table and tabs control Widgets.
@@ -64,7 +64,7 @@
 ** Projects:
 *** [[https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679][Gambino Slots]]
 **** Description: Social Casino Game
-**** Used intensively: C#, Xamarin, Dart Language\\
+**** Used intensively: C#, Xamarin, Dart Language
 **** Done:
             * Implemented slots infrastructure with Dart Language
             * Implemented reels engine system
@@ -74,7 +74,7 @@
 * Developer, Playtika 2013-2015 (2 years 1 month)
 ** Projects:
 *** [[https://apps.apple.com/us/app/caesars-casino-official-slots/id603097018][Caesars Casino]]
-**** Description:* Social Casino Game
+**** Description: Social Casino Game
 **** Used intensively: C#, Xamarin, Autofac, In-house game engine
 **** Done:
             * Implemented a bunch of new slot and mini games
