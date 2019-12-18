@@ -1,3 +1,5 @@
+#+MACRO: NEWLINE @@latex:\\@@ @@html:<br>@@
+
 * Contact Information
 ** Vitali Liashchuk
    - Phone: +375296176863
@@ -8,8 +10,9 @@
 ** Projects:
 *** [[https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387][Mahjong Treasure Quest]]
 
- *Description:* Puzzle\\
- *Used intensively:* test \\ Done:
+ *Description:* Puzzle {{{NEWLINE}}}
+ *Used intensively:* C++, cocos2d-x {{{NEWLINE}}}
+ *Done:*
 
 	    * Implemented competition feature
 	    * Implemented custom scroll table and tabs control Widgets.
