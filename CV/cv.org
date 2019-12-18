@@ -7,10 +7,18 @@
 * Developer, Glera Games Jun 2019-Present
 ** Projects:
 *** Mahjong Treasure Quest
-	*Description:* Puzzle \\
-	*Description:* Puzzle \\
-	*Description:* Puzzle \\
-	*Used intensively:* C++, cocos2d-x, Cocos Creator \\
+  :PROPERTIES:
+  :CUSTOM_ID: mtq
+  :END:
+
+
+  #+NAME: mtq
+  #+CAPTION: MTQ
+  - [[https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387][Mahjong Treasure Quest] :: Puzzle
+
+  *Description:* Puzzle \\
+  *Used intensively:* C++, cocos2d-x, Cocos Creator\\
+  *Done:*
 
 	    * Implemented competition feature
 	    * Implemented custom scroll table and tabs control Widgets.
