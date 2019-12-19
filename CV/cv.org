@@ -12,8 +12,8 @@
  - Analytical mind.
 
 * Skills
-  *Programming Languages:* C++, C#, Dart \\
-  *Frameworks & Libs:* cocos2d-x, .NET Framework \\
+  *Programming Languages:* C++, C#, Dart Language \\
+  *Frameworks & Libs:* STL, cocos2d-x,Xamarin, .NET Framework, in-house game engines \\
   *Tools:* git, svn, unix shell, vim, emacs \\
   *Other:* Jira/Confluence, GitLab CI/TeamCity/Jenkins \\
 
@@ -27,10 +27,10 @@
  *Used intensively:* C++, cocos2d-x\\
  *Achievements:*
 
-	    * Implemented competition feature
-	    * Implemented custom scroll table and tabs control Widgets.
 	    * Active participation in development of new UI system based on in-house CSS parser.
 	    * Implemented object transformations (transform/scale/rotate) for new UI system.
+        * Significantly improved game tools using Imgui library.
+        * Designed and implemented new Flow Actions System.
 
 ** C++/C# Developer, Gambino 2015-2019
 *** Projects:
@@ -38,22 +38,21 @@
     *Description:* Social Casino Game\\
     *Used intensively:* C++, emscripten, javascript\\
     *Achievements:*
-            * Implemented payment system using paypal
-            * Implemented requests retrying mechanism
-            * Optimized game loading time by running network requests in parallel. 
-            * Implemented prototype runnable on Instant Games Platform
+            * Implemented payment system using paypal. With deep integration C++ and Javascript
+            * Implemented requests retrying mechanism which is significantly impoved clien/server connection.
+            * Optimized game loading time by running HTTP requests in batch.
+            * Implemented runnable game prototype using C++/emscripten on the Instant Games Platform
 
 **** [[https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679][Gambino Slots]]
     *Description:* Social Casino Game\\
     *Used intensively:* C#, Xamarin, Dart Language\\
     *Achievements:*
-            * Reimplemented the Dart version of the game from scratch
+            * Worked on converter C# to Dart (Based on Roslyn compiler)
+            * Reimplemented  Dart version of the game from scratch.
             * Ported C# in-house game engine on MacOS
             * Integrated scissor OpenGl mechanism into the game
             * Integrated Firebase push messaging system 
-            * Worked on converter C# to Dart (Based on Roslyn compiler)
             * Deep code refactoring. Splitting codebase for specific platforms.
-            * Code base preparation to being translated.
 
 ** C# Developer, Synesis/MuGames 2015-2016 (1 year)
 *** Projects:
