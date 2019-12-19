@@ -93,7 +93,7 @@
             * Implemented a collecting system that aggregates metrics from data storages.  
             * Covered the data collecting system with unit tests.
 
-* Free time.
+* Self Study
 
      Playing with gamedev trending technologies such as Unreal Engine.\\
      Courses:
