@@ -5,7 +5,7 @@
    - Skype: vitali.liashchuk
    - Email: vitali.liashhuk@gmail.com
 
-* Developer, Glera Games Jun 2019-Present
+* C++ Developer, Glera Games Jun 2019-Present
 ** Projects:
 *** [[https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387][Mahjong Treasure Quest]]
 
@@ -18,7 +18,7 @@
 	    * Active participation in development of new UI system based on in-house CSS parser.
 	    * Implemented object transformations (transform/scale/rotate) for new UI system.
 
-* Developer, Gambino 2015-2019
+* C++/C# Developer, Gambino 2015-2019
 ** Projects:
 *** slototron.com
     *Description:* Social Casino Game\\
@@ -41,7 +41,7 @@
             * Deep code refactoring. Splitting codebase for specific platforms.
             * Code base preparation to being translated.
 
-* Developer, Synesis/MuGames 2015-2016 (1 year)
+* C# Developer, Synesis/MuGames 2015-2016 (1 year)
 ** Projects:
 *** [[https://www.youtube.com/watch?v=2PBA6-wSNi0][WildRide]]
     *Description:*\\
@@ -61,7 +61,7 @@
     *Done:*  
             * Implemented Viber social plugin (log-in, sharings, friends)
 
-* Developer, Gambino 2015-2015 (7 months)
+* C# Developer, Gambino 2015-2015 (7 months)
 ** Projects:
 *** [[https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679][Gambino Slots]]
     *Description* Social Casino Game\\
@@ -72,7 +72,7 @@
             * Implemented cheat system
             * Fixed loading issues on IE/Edge browsers 
 
-* Developer, Playtika 2013-2015 (2 years 1 month)
+* C# Developer, Playtika 2013-2015 (2 years 1 month)
 ** Projects:
 *** [[https://apps.apple.com/us/app/caesars-casino-official-slots/id603097018][Caesars Casino]]
     *Description:* Social Casino Game\\
@@ -84,7 +84,7 @@
             * Implemented server requests stub system 
             * Helped to discover and fix a lot of bugs in game engine (render system, animation system, sound system)
 
-* Developer, EPAM Systems Inc 2012-2013 (11 months)
+* Python Developer, EPAM Systems Inc 2012-2013 (11 months)
 ** Projects:
 *** Project Name: Under NDA
     *Description:* Monitoring application for large distributed data storage systems.\\
@@ -102,12 +102,3 @@
      Reading professional literature:
            * Game Engine Architecture, Jason Gregory
            * Effective Modern C++, Skott Meyers
-
-
-
-
-
-
-
-
-
