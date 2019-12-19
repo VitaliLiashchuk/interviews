@@ -7,7 +7,7 @@ Contact information
 Belarus, Minsk\
 Phone: +375296176863\
 Skype: vitali.liashchuk\
-Email: vitali.liashhuk\@gmail.com
+Email: <vitali.liashchuk@gmail.com>
 
 Summary
 =======

@@ -4,7 +4,7 @@
    Belarus, Minsk\\
    Phone: +375296176863 \\
    Skype: vitali.liashchuk \\
-   Email: vitali.liashhuk@gmail.com
+   Email: [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
 
 * Summary
   Software engineer with 10+ years of experience including 7 years in a game industry. Good understanding of OOP principles, high-quality code design. Knowledge of software development processes and methodologies. Experience of working in an Agile environment. Analytical mind.
