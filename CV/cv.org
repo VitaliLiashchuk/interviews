@@ -1,8 +1,8 @@
 #+OPTIONS: toc:nil        no default TOC at all
 * Vitali Liashchuk
 ** Contact information
-   Belarus, Minsk\\
-   Phone: +375296176863 \\
+   Sweden, Malmo\\
+   Phone: 0764074859 \\
    Skype: vitali.liashchuk \\
    Email: [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
 
@@ -17,7 +17,13 @@
 
 * Professional Experience
 
-** C++ Developer, Vizor Games (Jun 2019-Present)
+** C++ Developer King.com (2020 Apr - Present)
+*** Projets
+**** [[https://apps.apple.com/se/app/pet-rescue-saga/id572821456][Pet Rescue Saga]]
+     *Description:* Puzzle\\
+     *Used intensively:* C++\\
+
+** C++ Developer, Vizor Games (Jun 2019-2020 Apr)
 *** Projects:
 **** [[https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387][Mahjong Treasure Quest]]
 
@@ -27,7 +33,7 @@
 
 	    * Active participation in development of new UI system based on in-house CSS parser
 	    * Implemented object transformations (transform/scale/rotate) for new UI system
-        * Significantly improved game tools using Imgui library
+        * Significantly improved game tools using ImGui library
         * Designed and implemented new Flow Actions System
 
 ** C++/C# Developer, Gambino (2015-2019)
