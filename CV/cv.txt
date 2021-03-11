@@ -79,7 +79,7 @@ Vitali Liashchuk
   *Used intensively:* C++, cocos2d-x
   *Achievements:*
 
-  * Active participation in development of new UI system based on
+  * Active participation in the development of new UI system based on
     in-house CSS parser
   * Implemented object transformations (transform/scale/rotate) for new
     UI system
@@ -185,7 +185,7 @@ Vitali Liashchuk
   *Description* Social Casino Game
   *Used intensively:* C#, Xamarin, Dart Language
   *Achievements:*
-  * Implemented slots infrastructure with Dart Language
+  * Implemented slots infrastructure using Dart Language
   * Implemented reels engine system
   * Implemented cheat system
   * Fixed loading issues on IE/Edge browsers
@@ -209,11 +209,11 @@ Vitali Liashchuk
   *Description:* Social Casino Game
   *Used intensively* C#, Xamarin, Autofac, In-house game engine
   *Achievements:*
-  * Implemented a bunch of new slot and mini games
+  * Implemented a bunch of new slots and mini-games
   * Implemented sound manager
   * Refactored reels engine
   * Implemented server requests stub system
-  * Helped to discover and fix a lot of bugs in game engine (render
+  * Helped to discover and fix a lot of bugs in the game engine (render
     system, animation system, sound system)
 
 
