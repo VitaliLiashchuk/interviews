@@ -17,7 +17,7 @@
 
 * Professional Experience
 
-** C++ Developer King.com (2020 Apr - Present)
+** Senior Software Engineer (C++), King.com (2020 Apr - Present)
 *** Projets
 **** [[https://apps.apple.com/se/app/pet-rescue-saga/id572821456][Pet Rescue Saga]]
      *Description:* Puzzle\\
@@ -28,7 +28,7 @@
              * Implemented debug tools using ImGui library
              * Active participation in refactoring initiative.
 
-** C++ Developer, Vizor Games (Jun 2019-2020 Apr)
+** Senior Software Engineer (C++), Vizor Games (Jun 2019-2020 Apr)
 *** Projects:
 **** [[https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387][Mahjong Treasure Quest]]
 
@@ -41,7 +41,7 @@
         * Significantly improved game tools using ImGui library
         * Designed and implemented new Flow Actions System
 
-** C++/C# Developer, Gambino (2015-2019)
+** Senior Software Engineer (C++/C#), Gambino (2015-2019)
 *** Projects:
 **** [[https:://slototron.com][Slototron.com]]
     *Description:* Social Casino Game\\
@@ -63,7 +63,7 @@
             * Integrated Firebase push messaging system 
             * Deep code refactoring. Splitting codebase for specific platforms
 
-** C# Developer, Synesis/MuGames (2015-2016)
+** Senior Software Engineer (C#), Synesis/MuGames (2015-2016)
 *** Projects:
 **** [[https://www.youtube.com/watch?v=2PBA6-wSNi0][WildRide]]
     *Description:* \\
@@ -83,7 +83,7 @@
     *Achievements:*
             * Implemented Viber social plugin (log-in, sharings, friends)
 
-** C# Developer, Gambino (2015-2015)
+** Software Engineer (C#), Gambino (2015-2015)
 *** Projects:
 **** [[https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679][Gambino Slots]]
     *Description* Social Casino Game\\
@@ -94,7 +94,7 @@
             * Implemented cheat system
             * Fixed loading issues on IE/Edge browsers 
 
-** C# Developer, Playtika (2013-2015)
+** Software Engineer (C#), Playtika (2013-2015)
 *** Projects:
 **** [[https://apps.apple.com/us/app/caesars-casino-official-slots/id603097018][Caesars Casino]]
     *Description:* Social Casino Game\\
@@ -106,7 +106,7 @@
             * Implemented server requests stub system 
             * Helped to discover and fix a lot of bugs in the game engine (render system, animation system, sound system)
 
-** Python Developer, EPAM Systems Inc (2012-2013)
+** Software Engineer (Python), EPAM Systems Inc (2012-2013)
 *** Projects:
 **** Project Name: Under NDA
     *Description:* Monitoring application for large distributed data storage systems.\\

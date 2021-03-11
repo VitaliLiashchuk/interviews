@@ -27,7 +27,7 @@ Software engineer with 10+ years of experience including 7 years in the game ind
 # Professional Experience
 
 
-## C++ Developer King.com (2020 Apr - Present)
+## Senior Software Engineer (C++), King.com (2020 Apr - Present)
 
 
 ### Projets
@@ -43,7 +43,7 @@ Software engineer with 10+ years of experience including 7 years in the game ind
     -   Active participation in refactoring initiative.
 
 
-## C++ Developer, Vizor Games (Jun 2019-2020 Apr)
+## Senior Software Engineer (C++), Vizor Games (Jun 2019-2020 Apr)
 
 
 ### Projects:
@@ -60,7 +60,7 @@ Software engineer with 10+ years of experience including 7 years in the game ind
     -   Designed and implemented new Flow Actions System
 
 
-## C++/C# Developer, Gambino (2015-2019)
+## Senior Software Engineer (C++/C#), Gambino (2015-2019)
 
 
 ### Projects:
@@ -90,7 +90,7 @@ Software engineer with 10+ years of experience including 7 years in the game ind
     -   Deep code refactoring. Splitting codebase for specific platforms
 
 
-## C# Developer, Synesis/MuGames (2015-2016)
+## Senior Software Engineer (C#), Synesis/MuGames (2015-2016)
 
 
 ### Projects:
@@ -118,7 +118,7 @@ Software engineer with 10+ years of experience including 7 years in the game ind
     -   Implemented Viber social plugin (log-in, sharings, friends)
 
 
-## C# Developer, Gambino (2015-2015)
+## Software Engineer (C#), Gambino (2015-2015)
 
 
 ### Projects:
@@ -135,7 +135,7 @@ Software engineer with 10+ years of experience including 7 years in the game ind
     -   Fixed loading issues on IE/Edge browsers
 
 
-## C# Developer, Playtika (2013-2015)
+## Software Engineer (C#), Playtika (2013-2015)
 
 
 ### Projects:
@@ -153,7 +153,7 @@ Software engineer with 10+ years of experience including 7 years in the game ind
     -   Helped to discover and fix a lot of bugs in the game engine (render system, animation system, sound system)
 
 
-## Python Developer, EPAM Systems Inc (2012-2013)
+## Software Engineer (Python), EPAM Systems Inc (2012-2013)
 
 
 ### Projects:

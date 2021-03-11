@@ -39,8 +39,8 @@ Vitali Liashchuk
 4 Professional Experience
 =========================
 
-4.1 C++ Developer King.com (2020 Apr - Present)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4.1 Senior Software Engineer (C++), King.com (2020 Apr - Present)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.1.1 Projets
 -------------
@@ -64,8 +64,8 @@ Vitali Liashchuk
   <https://apps.apple.com/se/app/pet-rescue-saga/id572821456>
 
 
-4.2 C++ Developer, Vizor Games (Jun 2019-2020 Apr)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4.2 Senior Software Engineer (C++), Vizor Games (Jun 2019-2020 Apr)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.2.1 Projects:
 ---------------
@@ -91,8 +91,8 @@ Vitali Liashchuk
   <https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387>
 
 
-4.3 C++/C# Developer, Gambino (2015-2019)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4.3 Senior Software Engineer (C++/C#), Gambino (2015-2019)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.3.1 Projects:
 ---------------
@@ -133,8 +133,8 @@ Vitali Liashchuk
   <https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679>
 
 
-4.4 C# Developer, Synesis/MuGames (2015-2016)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4.4 Senior Software Engineer (C#), Synesis/MuGames (2015-2016)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.4.1 Projects:
 ---------------
@@ -171,8 +171,8 @@ Vitali Liashchuk
   [Viber Rude Rider] <https://www.youtube.com/watch?v=l7paSgeKoFU>
 
 
-4.5 C# Developer, Gambino (2015-2015)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4.5 Software Engineer (C#), Gambino (2015-2015)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.5.1 Projects:
 ---------------
@@ -195,8 +195,8 @@ Vitali Liashchuk
   <https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679>
 
 
-4.6 C# Developer, Playtika (2013-2015)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4.6 Software Engineer (C#), Playtika (2013-2015)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.6.1 Projects:
 ---------------
@@ -221,8 +221,8 @@ Vitali Liashchuk
   <https://apps.apple.com/us/app/caesars-casino-official-slots/id603097018>
 
 
-4.7 Python Developer, EPAM Systems Inc (2012-2013)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4.7 Software Engineer (Python), EPAM Systems Inc (2012-2013)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.7.1 Projects:
 ---------------
