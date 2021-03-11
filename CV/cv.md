@@ -13,13 +13,13 @@ Email: [vitali.liashchuk@gmail.com](mailto:vitali.liashchuk@gmail.com)
 
 # Summary
 
-Software engineer with 10+ years of experience including 7 years in a game industry. Good understanding of OOP principles, high-quality code design. Knowledge of software development processes and methodologies. Experience of working in an Agile environment. Analytical mind.
+Software engineer with 10+ years of experience including 7 years in the game industry. Good understanding of OOP principles, high-quality code design. Knowledge of software development processes and methodologies. Experience of working in an Agile environment. Analytical mind.
 
 
 # Skills
 
 **Programming Languages:** C++, C#, Dart    
-**Frameworks & Libs:** STL, cocos2d-x,Xamarin, .NET Framework, in-house game engines   
+**Frameworks & Libs:** STL, cocos2d-x, Xamarin, .NET Framework, in-house game engines   
 **Tools:** git, svn, unix shell, vim, emacs   
 **Other:** Jira/Confluence, GitLab CI/TeamCity/Jenkins   
 
@@ -36,6 +36,11 @@ Software engineer with 10+ years of experience including 7 years in a game indus
 
     **Description:** Puzzle  
     **Used intensively:** C++  
+    **Achievements:**
+    
+    -   Designed new game architecture based on Entity Component System principles.
+    -   Implemented debug tools using ImGui library
+    -   Active participation in refactoring initiative.
 
 
 ## C++ Developer, Vizor Games (Jun 2019-2020 Apr)
