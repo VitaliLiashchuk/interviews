@@ -38,7 +38,7 @@ Software engineer with 10+ years of experience including 7 years in the game ind
     **Used intensively:** C++  
     **Achievements:**
     
-    -   Designed new game architecture based on Entity Component System principles.
+    -   Designed new game architecture based on Entity Component System and Data Oriented principles.
     -   Implemented debug tools using ImGui library
     -   Active participation in refactoring initiative.
 

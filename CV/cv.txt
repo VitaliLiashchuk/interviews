@@ -54,8 +54,8 @@ Vitali Liashchuk
   *Used intensively:* C++
   *Achievements:*
 
-  * Designed new game architecture based on Entity Component System
-    principles.
+  * Designed new game architecture based on Entity Component System and
+    Data Oriented principles.
   * Implemented debug tools using ImGui library
   * Active participation in refactoring initiative.
 
