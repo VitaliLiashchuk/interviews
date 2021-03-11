@@ -1,11 +1,11 @@
-Armoken
+Vitali Liashchuk
 
 
 1 Vitali Liashchuk
-══════════════════
+==================
 
 1.1 Contact information
-───────────────────────
+~~~~~~~~~~~~~~~~~~~~~~~
 
   Sweden, Malmo
   Phone: 0764074859
@@ -13,232 +13,238 @@ Armoken
   Email: [vitali.liashchuk@gmail.com]
 
 
-[vitali.liashchuk@gmail.com] mailto:vitali.liashchuk@gmail.com
+[vitali.liashchuk@gmail.com] <mailto:vitali.liashchuk@gmail.com>
 
 
 2 Summary
-═════════
+=========
 
-  Software engineer with 10+ years of experience including 7 years in a
-  game industry. Good understanding of OOP principles, high-quality code
-  design. Knowledge of software development processes and
+  Software engineer with 10+ years of experience including 7 years in
+  the game industry. Good understanding of OOP principles, high-quality
+  code design. Knowledge of software development processes and
   methodologies. Experience of working in an Agile
   environment. Analytical mind.
 
 
 3 Skills
-════════
+========
 
   *Programming Languages:* C++, C#, Dart
-  *Frameworks & Libs:* STL, cocos2d-x,Xamarin, .NET Framework, in-house
+  *Frameworks & Libs:* STL, cocos2d-x, Xamarin, .NET Framework, in-house
    game engines
   *Tools:* git, svn, unix shell, vim, emacs
   *Other:* Jira/Confluence, GitLab CI/TeamCity/Jenkins
 
 
 4 Professional Experience
-═════════════════════════
+=========================
 
 4.1 C++ Developer King.com (2020 Apr - Present)
-───────────────────────────────────────────────
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.1.1 Projets
-╌╌╌╌╌╌╌╌╌╌╌╌╌
+-------------
 
 [Pet Rescue Saga]
-https://apps.apple.com/se/app/pet-rescue-saga/id572821456
+<https://apps.apple.com/se/app/pet-rescue-saga/id572821456>
 
-◊ 4.1.1.1 [Pet Rescue Saga]
+* 4.1.1.1 [Pet Rescue Saga]
 
   *Description:* Puzzle
   *Used intensively:* C++
+  *Achievements:*
+
+  * Designed new game architecture based on Entity Component System
+    principles.
+  * Implemented debug tools using ImGui library
+  * Active participation in refactoring initiative.
 
 
   [Pet Rescue Saga]
-  https://apps.apple.com/se/app/pet-rescue-saga/id572821456
+  <https://apps.apple.com/se/app/pet-rescue-saga/id572821456>
 
 
 4.2 C++ Developer, Vizor Games (Jun 2019-2020 Apr)
-──────────────────────────────────────────────────
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.2.1 Projects:
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+---------------
 
 [Mahjong Treasure Quest]
-https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387
+<https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387>
 
-◊ 4.2.1.1 [Mahjong Treasure Quest]
+* 4.2.1.1 [Mahjong Treasure Quest]
 
   *Description:* Puzzle
   *Used intensively:* C++, cocos2d-x
   *Achievements:*
 
-  ‣ Active participation in development of new UI system based on
+  * Active participation in development of new UI system based on
     in-house CSS parser
-  ‣ Implemented object transformations (transform/scale/rotate) for new
+  * Implemented object transformations (transform/scale/rotate) for new
     UI system
-  ‣ Significantly improved game tools using ImGui library
-  ‣ Designed and implemented new Flow Actions System
+  * Significantly improved game tools using ImGui library
+  * Designed and implemented new Flow Actions System
 
 
   [Mahjong Treasure Quest]
-  https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387
+  <https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387>
 
 
 4.3 C++/C# Developer, Gambino (2015-2019)
-─────────────────────────────────────────
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.3.1 Projects:
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+---------------
 
-[Slototron.com] https:://slototron.com
+[Slototron.com] <https:://slototron.com>
 
-◊ 4.3.1.1 [Slototron.com]
+* 4.3.1.1 [Slototron.com]
 
   *Description:* Social Casino Game
   *Used intensively:* C++, emscripten, javascript
   *Achievements:*
-  ‣ Implemented payment system using paypal. With deep integration C++
+  * Implemented payment system using paypal. With deep integration C++
     and Javascript
-  ‣ Implemented requests retrying mechanism which is significantly
+  * Implemented requests retrying mechanism which is significantly
     impoved clien/server connection
-  ‣ Optimized game loading time by running HTTP requests in batch
-  ‣ Implemented runnable game prototype using C++/emscripten on the
+  * Optimized game loading time by running HTTP requests in batch
+  * Implemented runnable game prototype using C++/emscripten on the
     Instant Games Platform
 
 
-  [Slototron.com] https:://slototron.com
+  [Slototron.com] <https:://slototron.com>
 
 
-◊ 4.3.1.2 [Gambino Slots]
+* 4.3.1.2 [Gambino Slots]
 
   *Description:* Social Casino Game
   *Used intensively:* C#, Xamarin, Dart Language
   *Achievements:*
-  ‣ Worked on converter C# to Dart (Based on Roslyn compiler)
-  ‣ Reimplemented Dart version of the game from scratch
-  ‣ Ported C# in-house game engine on MacOS
-  ‣ Integrated scissor OpenGl mechanism into the game
-  ‣ Integrated Firebase push messaging system
-  ‣ Deep code refactoring. Splitting codebase for specific platforms
+  * Worked on converter C# to Dart (Based on Roslyn compiler)
+  * Reimplemented Dart version of the game from scratch
+  * Ported C# in-house game engine on MacOS
+  * Integrated scissor OpenGl mechanism into the game
+  * Integrated Firebase push messaging system
+  * Deep code refactoring. Splitting codebase for specific platforms
 
 
   [Gambino Slots]
-  https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679
+  <https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679>
 
 
 4.4 C# Developer, Synesis/MuGames (2015-2016)
-─────────────────────────────────────────────
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.4.1 Projects:
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+---------------
 
-[WildRide] https://www.youtube.com/watch?v=2PBA6-wSNi0
+[WildRide] <https://www.youtube.com/watch?v=2PBA6-wSNi0>
 
-◊ 4.4.1.1 [WildRide]
+* 4.4.1.1 [WildRide]
 
   *Description:*
   *Used intensively:* C#, Xamarin, Box2D
   *Achievements:*
-  ‣ Implemented advertising manager with different AD providers support
+  * Implemented advertising manager with different AD providers support
     (vungle,chartboost,unity,etc)
-  ‣ Implemented social plugin system to support different social
+  * Implemented social plugin system to support different social
     networks
-  ‣ Implemented facebook social plugin (log-in, sharings, friends)
-  ‣ Implemented online contests system
-  ‣ Implemented anti-cheaters mechanism
-  ‣ Integrated a binary resources format
-  ‣ Implemented a continuous integration system
+  * Implemented facebook social plugin (log-in, sharings, friends)
+  * Implemented online contests system
+  * Implemented anti-cheaters mechanism
+  * Integrated a binary resources format
+  * Implemented a continuous integration system
 
 
-  [WildRide] https://www.youtube.com/watch?v=2PBA6-wSNi0
+  [WildRide] <https://www.youtube.com/watch?v=2PBA6-wSNi0>
 
 
-◊ 4.4.1.2 [Viber Rude Rider]
+* 4.4.1.2 [Viber Rude Rider]
 
   *Description* multi-platform 2D race and shoot game
   *Used intensively:* C#, Xamarin
   *Achievements:*
-  ‣ Implemented Viber social plugin (log-in, sharings, friends)
+  * Implemented Viber social plugin (log-in, sharings, friends)
 
 
-  [Viber Rude Rider] https://www.youtube.com/watch?v=l7paSgeKoFU
+  [Viber Rude Rider] <https://www.youtube.com/watch?v=l7paSgeKoFU>
 
 
 4.5 C# Developer, Gambino (2015-2015)
-─────────────────────────────────────
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.5.1 Projects:
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+---------------
 
 [Gambino Slots]
-https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679
+<https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679>
 
-◊ 4.5.1.1 [Gambino Slots]
+* 4.5.1.1 [Gambino Slots]
 
   *Description* Social Casino Game
   *Used intensively:* C#, Xamarin, Dart Language
   *Achievements:*
-  ‣ Implemented slots infrastructure with Dart Language
-  ‣ Implemented reels engine system
-  ‣ Implemented cheat system
-  ‣ Fixed loading issues on IE/Edge browsers
+  * Implemented slots infrastructure with Dart Language
+  * Implemented reels engine system
+  * Implemented cheat system
+  * Fixed loading issues on IE/Edge browsers
 
 
   [Gambino Slots]
-  https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679
+  <https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679>
 
 
 4.6 C# Developer, Playtika (2013-2015)
-──────────────────────────────────────
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.6.1 Projects:
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+---------------
 
 [Caesars Casino]
-https://apps.apple.com/us/app/caesars-casino-official-slots/id603097018
+<https://apps.apple.com/us/app/caesars-casino-official-slots/id603097018>
 
-◊ 4.6.1.1 [Caesars Casino]
+* 4.6.1.1 [Caesars Casino]
 
   *Description:* Social Casino Game
   *Used intensively* C#, Xamarin, Autofac, In-house game engine
   *Achievements:*
-  ‣ Implemented a bunch of new slot and mini games
-  ‣ Implemented sound manager
-  ‣ Refactored reels engine
-  ‣ Implemented server requests stub system
-  ‣ Helped to discover and fix a lot of bugs in game engine (render
+  * Implemented a bunch of new slot and mini games
+  * Implemented sound manager
+  * Refactored reels engine
+  * Implemented server requests stub system
+  * Helped to discover and fix a lot of bugs in game engine (render
     system, animation system, sound system)
 
 
   [Caesars Casino]
-  https://apps.apple.com/us/app/caesars-casino-official-slots/id603097018
+  <https://apps.apple.com/us/app/caesars-casino-official-slots/id603097018>
 
 
 4.7 Python Developer, EPAM Systems Inc (2012-2013)
-──────────────────────────────────────────────────
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 4.7.1 Projects:
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+---------------
 
-◊ 4.7.1.1 Project Name: Under NDA
+* 4.7.1.1 Project Name: Under NDA
 
   *Description:* Monitoring application for large distributed data
    storage systems.
   *Used intensively:* python, javascript
   *Achievements:*
-  ‣ Implemented a collecting system that aggregates metrics from data
+  * Implemented a collecting system that aggregates metrics from data
     storages
-  ‣ Covered the data collecting system with unit tests
+  * Covered the data collecting system with unit tests
 
 
 4.8 Self Study
-──────────────
+~~~~~~~~~~~~~~
 
   Playing with gamedev trending technologies such as Unreal Engine.
-  Courses: [https://www.udemy.com/unrealcourse/learn/v4/overview]
-         [https://www.coursera.org/learn/algorithms-part1]
+  Courses: <https://www.udemy.com/unrealcourse/learn/v4/overview>
+         <https://www.coursera.org/learn/algorithms-part1>
 
   Reading professional literature:
-  ‣ Game Engine Architecture, Jason Gregory
-  ‣ Effective Modern C++, Skott Meyers
+  * Game Engine Architecture, Jason Gregory
+  * Effective Modern C++, Skott Meyers
