@@ -7,7 +7,7 @@
    Email: [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
 
 * Summary
-  Software engineer with 10+ years of experience including 7 years in the game industry. Good understanding of OOP principles, high-quality code design. Knowledge of software development processes and methodologies. Experience of working in an Agile environment. Analytical mind.
+  Software engineer with 10+ years of experience including 7 years in the game industry. Good understanding of OOP principles, and high-quality code design. Knowledge of software development processes and methodologies. Experience working in an Agile environment. Analytical mind.
 
 * Skills
   *Programming Languages:* C++, C#, Dart  \\
@@ -17,15 +17,27 @@
 
 * Professional Experience
 
-** Senior Software Engineer (C++), King.com (2020 Apr - Present)
+** Lead Software Engineer (C++), Adverty (2021 Dec - Present)
+*** Projects
+**** [[http://adverty.com][AdvertySDK]]
+     *Description:* Advertising SDK\\
+     *Used intensively:* C++\\
+     *Achievements:*
+             * Took a leadership in the architecture design of the main product.
+             * Implemented external API for integration for C#/C++
+             * Implemented UnitTest infrastructure.
+             * Did the integration of the WPE WebKit project into the SDK codebase with a custom rendering backend.
+             * Actively participated in code review process and team members support.
+
+** Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec)
 *** Projets
 **** [[https://apps.apple.com/se/app/pet-rescue-saga/id572821456][Pet Rescue Saga]]
      *Description:* Puzzle\\
      *Used intensively:* C++\\
      *Achievements:*
 
-             * Designed new game architecture based on Entity Component System and Data Oriented principles.
-             * Implemented debug tools using ImGui library
+             * Designed new game architecture based on Entity Component System and Data-Oriented principles.
+             * Implemented debug tools using the ImGui library
              * Active participation in refactoring initiative.
 
 ** Senior Software Engineer (C++), Vizor Games (Jun 2019-2020 Apr)

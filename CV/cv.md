@@ -13,7 +13,7 @@ Email: [vitali.liashchuk@gmail.com](mailto:vitali.liashchuk@gmail.com)
 
 # Summary
 
-Software engineer with 10+ years of experience including 7 years in the game industry. Good understanding of OOP principles, high-quality code design. Knowledge of software development processes and methodologies. Experience of working in an Agile environment. Analytical mind.
+Software engineer with 10+ years of experience including 7 years in the game industry. Good understanding of OOP principles, and high-quality code design. Knowledge of software development processes and methodologies. Experience working in an Agile environment. Analytical mind.
 
 
 # Skills
@@ -27,7 +27,25 @@ Software engineer with 10+ years of experience including 7 years in the game ind
 # Professional Experience
 
 
-## Senior Software Engineer (C++), King.com (2020 Apr - Present)
+## Lead Software Engineer (C++), Adverty (2021 Dec - Present)
+
+
+### Projects
+
+1.  [AdvertySDK](http://adverty.com)
+
+    **Description:** Advertising SDK  
+    **Used intensively:** C++  
+    **Achievements:**
+    
+    -   Took a leadership in the architecture design of the main product.
+    -   Implemented external API for integration for C#/C++
+    -   Implemented UnitTest infrastructure.
+    -   Did the integration of the WPE WebKit project into the SDK codebase with a custom rendering backend.
+    -   Actively participated in code review process and team members support.
+
+
+## Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec)
 
 
 ### Projets
@@ -38,8 +56,8 @@ Software engineer with 10+ years of experience including 7 years in the game ind
     **Used intensively:** C++  
     **Achievements:**
     
-    -   Designed new game architecture based on Entity Component System and Data Oriented principles.
-    -   Implemented debug tools using ImGui library
+    -   Designed new game architecture based on Entity Component System and Data-Oriented principles.
+    -   Implemented debug tools using the ImGui library
     -   Active participation in refactoring initiative.
 
 
