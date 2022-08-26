@@ -10,9 +10,9 @@
   Software engineer with 10+ years of experience including 7 years in the game industry. Good understanding of OOP principles, and high-quality code design. Knowledge of software development processes and methodologies. Experience working in an Agile environment. Analytical mind.
 
 * Skills
-  *Programming Languages:* C++, C#  \\
+  *Programming Languages:* C++/C#  \\
   *Frameworks & Libs:*
-             * STL/boost
+             * STL/Boost
              * Unreal Engine/Unity3d/cocos2d-x
              * Xamarin/.NET Framework
              * in-house game engines
@@ -25,7 +25,7 @@
 ** Lead Software Engineer (C++), Adverty (2021 Dec - Present)
 *** Projects
 **** [[http://adverty.com][AdvertySDK]]
-     *Description:* Advertising SDK (Unity3d/Unreal Engine)\\
+     *Description:* Advertising SDK  \\
      *Used intensively:* C++, C#, Objective C, Java/JNI \\
      *Achievements:*
              * Took leadership in SDK architecture design.

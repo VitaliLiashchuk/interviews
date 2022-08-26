@@ -18,10 +18,10 @@ Software engineer with 10+ years of experience including 7 years in the game ind
 
 # Skills
 
-**Programming Languages:** C++, C#    
+**Programming Languages:** C++/C#    
 **Frameworks & Libs:**
 
--   STL/boost
+-   STL/Boost
 -   Unreal Engine/Unity3d/cocos2d-x
 -   Xamarin/.NET Framework
 -   in-house game engines
@@ -40,7 +40,7 @@ Software engineer with 10+ years of experience including 7 years in the game ind
 
 1.  [AdvertySDK](http://adverty.com)
 
-    **Description:** Advertising SDK (Unity3d/Unreal Engine)  
+    **Description:** Advertising SDK    
     **Used intensively:** C++, C#, Objective C, Java/JNI   
     **Achievements:**
     
