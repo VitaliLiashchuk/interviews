@@ -10,9 +10,9 @@
   Software engineer with 10+ years of experience including 7 years in the game industry. Good understanding of OOP principles, and high-quality code design. Knowledge of software development processes and methodologies. Experience working in an Agile environment. Analytical mind.
 
 * Skills
-  *Programming Languages:* C++, C#, Dart  \\
+  *Programming Languages:* C++, C#  \\
   *Frameworks & Libs:* STL, cocos2d-x, Xamarin, .NET Framework, in-house game engines \\
-  *Tools:* git, svn, unix shell, vim, emacs \\
+  *Tools:* git, svn, unix shell, emacs, vim \\
   *Other:* Jira/Confluence, GitLab CI/TeamCity/Jenkins \\
 
 * Professional Experience
@@ -20,14 +20,14 @@
 ** Lead Software Engineer (C++), Adverty (2021 Dec - Present)
 *** Projects
 **** [[http://adverty.com][AdvertySDK]]
-     *Description:* Advertising SDK\\
-     *Used intensively:* C++\\
+     *Description:* Advertising SDK (Unity3d/Unreal Engine)\\
+     *Used intensively:* C++, C#, Objective C, Java/JNI \\
      *Achievements:*
-             * Took a leadership in the architecture design of the main product.
-             * Implemented external API for integration for C#/C++
-             * Implemented UnitTest infrastructure.
-             * Did the integration of the WPE WebKit project into the SDK codebase with a custom rendering backend.
-             * Actively participated in code review process and team members support.
+             * Took leadership in SDK architecture design.
+             * Designed SDK API.
+             * Implemented UnitTest and IntegrationTests infrastructure.
+             * Implemented texture rendering from WebView to Metal/Vulkan texture.
+             * Actively participated in the code review process and team member's support.
 
 ** Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec)
 *** Projets
