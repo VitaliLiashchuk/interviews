@@ -19,7 +19,13 @@ Software engineer with 10+ years of experience including 7 years in the game ind
 # Skills
 
 **Programming Languages:** C++, C#    
-**Frameworks & Libs:** STL, cocos2d-x, Xamarin, .NET Framework, in-house game engines   
+**Frameworks & Libs:**
+
+-   STL/boost
+-   Unreal Engine/Unity3d/cocos2d-x
+-   Xamarin/.NET Framework
+-   in-house game engines
+
 **Tools:** git, svn, unix shell, emacs, vim   
 **Other:** Jira/Confluence, GitLab CI/TeamCity/Jenkins   
 
