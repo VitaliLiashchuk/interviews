@@ -5,8 +5,8 @@
 
 ## Contact information
 
-Sweden, Malmo  
-Phone: 0764074859   
+Poland, Warsaw  
+Phone: +48571060356   
 Skype: vitali.liashchuk   
 Email: [vitali.liashchuk@gmail.com](mailto:vitali.liashchuk@gmail.com)
 
@@ -18,9 +18,9 @@ Software engineer with 10+ years of experience including 7 years in the game ind
 
 # Skills
 
-**Programming Languages:** C++, C#, Dart    
+**Programming Languages:** C++, C#    
 **Frameworks & Libs:** STL, cocos2d-x, Xamarin, .NET Framework, in-house game engines   
-**Tools:** git, svn, unix shell, vim, emacs   
+**Tools:** git, svn, unix shell, emacs, vim   
 **Other:** Jira/Confluence, GitLab CI/TeamCity/Jenkins   
 
 
@@ -34,15 +34,15 @@ Software engineer with 10+ years of experience including 7 years in the game ind
 
 1.  [AdvertySDK](http://adverty.com)
 
-    **Description:** Advertising SDK  
-    **Used intensively:** C++  
+    **Description:** Advertising SDK (Unity3d/Unreal Engine)  
+    **Used intensively:** C++, C#, Objective C, Java/JNI   
     **Achievements:**
     
-    -   Took a leadership in the architecture design of the main product.
-    -   Implemented external API for integration for C#/C++
-    -   Implemented UnitTest infrastructure.
-    -   Did the integration of the WPE WebKit project into the SDK codebase with a custom rendering backend.
-    -   Actively participated in code review process and team members support.
+    -   Took leadership in SDK architecture design.
+    -   Designed SDK API.
+    -   Implemented UnitTest and IntegrationTests infrastructure.
+    -   Implemented texture rendering from WebView to Metal/Vulkan texture.
+    -   Actively participated in the code review process and team member's support.
 
 
 ## Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec)
