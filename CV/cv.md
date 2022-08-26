@@ -26,7 +26,7 @@ Software engineer with 10+ years of experience including 7 years in the game ind
 -   Xamarin/.NET Framework
 -   in-house game engines
 
-**Tools:** git, svn, unix shell, emacs, vim   
+**Tools:** git, cmake, unix shell, emacs, vim   
 **Other:** Jira/Confluence, GitLab CI/TeamCity/Jenkins   
 
 
@@ -45,6 +45,7 @@ Software engineer with 10+ years of experience including 7 years in the game ind
     **Achievements:**
     
     -   Took leadership in SDK architecture design.
+    -   Implemented CMake project infrastracture.
     -   Designed SDK API.
     -   Implemented UnitTest and IntegrationTests infrastructure.
     -   Implemented texture rendering from WebView to Metal/Vulkan texture.

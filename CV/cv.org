@@ -17,7 +17,7 @@
              * Xamarin/.NET Framework
              * in-house game engines
 
-  *Tools:* git, svn, unix shell, emacs, vim \\
+  *Tools:* git, cmake, unix shell, emacs, vim \\
   *Other:* Jira/Confluence, GitLab CI/TeamCity/Jenkins \\
 
 * Professional Experience
@@ -29,6 +29,7 @@
      *Used intensively:* C++, C#, Objective C, Java/JNI \\
      *Achievements:*
              * Took leadership in SDK architecture design.
+             * Implemented CMake project infrastracture.
              * Designed SDK API.
              * Implemented UnitTest and IntegrationTests infrastructure.
              * Implemented texture rendering from WebView to Metal/Vulkan texture.
