@@ -41,7 +41,7 @@ Software engineer with 10+ years of experience including 7 years in the game ind
 1.  [AdvertySDK](http://adverty.com)
 
     **Description:** Advertising SDK    
-    **Used intensively:** C++, C#, Objective C, Java/JNI   
+    **Used intensively:** C++/Metal/Vukan/OpenGl/Shaders   
     **Achievements:**
     
     -   Took leadership in SDK architecture design.
@@ -50,6 +50,7 @@ Software engineer with 10+ years of experience including 7 years in the game ind
     -   Implemented UnitTest and IntegrationTests infrastructure.
     -   Implemented texture rendering from WebView to Metal/Vulkan texture.
     -   Actively participated in the code review process and team member's support.
+    -   Implemented a plugin for Unity3d and Unreal Engine.
 
 
 ## Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec)
