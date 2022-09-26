@@ -7,14 +7,15 @@
    Email: [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
 
 * Summary
-  Software engineer with 10+ years of experience. Good understanding of OOP principles and high-quality code design. Knowledge of software development processes and methodologies. Experience working in an Agile environment. Analytical mind.
+  Software engineer with 10 years of experience. A passionate engineer. I enjoy to automate and simplify. Interested in high performance code.
 
 * Skills
   *Programming Languages:* C++  \\
   *Frameworks & Libs:*
-             * STL/Boost
-             * Unreal Engine/Unity3d/cocos2d-x
-             * in-house game engines
+             + STL/Boost
+             + C++ Bindings for Java/ObjC/C#
+             + Unreal Engine/Unity3d/cocos2d-x
+             + in-house game engines
 
 * Professional Experience
 
@@ -22,8 +23,9 @@
 *** Projects
 **** [[http://adverty.com][AdvertySDK]]
      *Description:* Advertising SDK  \\
-     *Used intensively:* C++/Metal/Vukan/OpenGl/Shaders \\
+     *Used intensively:* C++/Metal/Vukan/OpenGl \\
      *Achievements:*
+             * Introduced TDD process to the team.
              * Took leadership in SDK architecture design.
              * Implemented CMake project infrastracture.
              * Designed SDK API.
