@@ -6,16 +6,12 @@
    Phone: +48571060356 \\
    Skype: vitali.liashchuk \\
    Email: [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
-
 ** Summary
   A passionate software engineer with 10 years of experience. I enjoy to automate and simplify. Interested in high performance code.
-
 ** Skills
   *Languages:* C++, C#, Python  \\
   *Technologies:* STL, Boost, Unreal Engine, Unity3d, cocos2d-x, Linux, FreeBSD
-
 ** Professional Experience
-
 *** Lead Software Engineer (C++), Adverty (2021 Dec - Present).
 ****** [[http://adverty.com][AdvertySDK]]
      *Description:* Advertising SDK  \\
