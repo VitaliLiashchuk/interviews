@@ -7,6 +7,14 @@
    Phone: +48571060356
    Email: [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
 
+   #+BEGIN_VERSE
+   Great clouds overhead
+   Tiny black birds rise and fall
+   Snow covers Emacs
+
+   ---AlexSchroeder
+   #+END_VERSE
+
    #+BEGIN_QUOTE
    Everything should be made as simple as possible,
    but not any simpler ---Albert Einstein
