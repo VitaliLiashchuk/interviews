@@ -14,8 +14,9 @@ test \\\\
 #+END_CENTER
 
 #+BEGIN_QUOTE
-some text...
-test
+some text... \\
+test \\
+test2
 #+END_QUOTE
 
 ** Summary
