@@ -16,13 +16,8 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
 
 # Skills
 
-**Programming Languages:** C++    
-**Frameworks & Libs:**
-
--   STL/Boost
--   C++ Bindings for Java/ObjC/C#
--   Unreal Engine/Unity3d/cocos2d-x
--   in-house game engines
+**Languages:** C++, C#, Python    
+**Technologies:** STL/Boost, Unreal Engine/Unity3d/cocos2d-x, Linux/FreeBSD
 
 
 # Professional Experience
