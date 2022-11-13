@@ -13,7 +13,7 @@
  - *Technologies:* STL, Boost, Unreal Engine, Unity3d, cocos2d-x, Linux, FreeBSD
 ** Professional Experience
 *** Lead Software Engineer (C++), Adverty (2021 Dec - Present).
-**** [[http://adverty.com][AdvertySDK]] Advertising SDK
+**** [[http://adverty.com][AdvertySDK]]
      - *Used intensively:* C++/Metal/Vukan/OpenGL
      - *Achievements:*
              * Introduced TDD process to the team.
@@ -26,7 +26,7 @@
              * Implemented a plugin for Unity3d and Unreal Engine.
 
 *** Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec).
-**** [[https://apps.apple.com/se/app/pet-rescue-saga/id572821456][Pet Rescue Saga]] Puzzle game
+**** [[https://apps.apple.com/se/app/pet-rescue-saga/id572821456][Pet Rescue Saga]]
      - *Used intensively:* C++
      - *Achievements:*
              * Designed new game architecture based on Entity Component System and Data-Oriented principles.
@@ -35,7 +35,6 @@
 
 *** Senior Software Engineer (C++), Vizor Games (Jun 2019-2020 Apr)
 **** [[https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387][Mahjong Treasure Quest]]
-- *Description:* Puzzle
 - *Used intensively:* C++, cocos2d-x
 - *Achievements:*
 	    * Active participation in the development of new UI system based on in-house CSS parser
@@ -45,7 +44,6 @@
 
 *** Senior Software Engineer (C++/C#), Gambino (2015-2019)
 **** [[https:://slototron.com][Slototron.com]]
-    - *Description:* Social Casino Game
     - *Used intensively:* C++, emscripten, javascript
     - *Achievements:*
             * Implemented payment system using paypal. With deep integration C++ and Javascript
@@ -54,7 +52,6 @@
             * Implemented runnable game prototype using C++/emscripten on the Instant Games Platform
 
 **** [[https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679][Gambino Slots]]
-    - *Description:* Social Casino Game
     - *Used intensively:* C#, Xamarin, Dart Language
     - *Achievements:*
             * Worked on converter C# to Dart (Based on Roslyn compiler)
@@ -66,7 +63,6 @@
 
 *** Senior Software Engineer (C#), MuGames (2015-2016)
 **** [[https://www.youtube.com/watch?v=2PBA6-wSNi0][WildRide]]
-    - *Description:*
     - *Used intensively:* C#, Xamarin, Box2D
     - *Achievements:*
             * Implemented advertising manager with different AD providers support (vungle,chartboost,unity,etc)
@@ -78,14 +74,12 @@
             * Implemented a continuous integration system  
  
 **** [[https://www.youtube.com/watch?v=l7paSgeKoFU][Viber Rude Rider]]
-    - *Description* multi-platform 2D race and shoot game
     - *Used intensively:* C#, Xamarin
     - *Achievements:*
             * Implemented Viber social plugin (log-in, sharings, friends)
 
 *** Software Engineer (C#), Gambino (2015-2015)
 **** [[https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679][Gambino Slots]]
-    - *Description* Social Casino Game
     - *Used intensively:* C#, Xamarin, Dart Language
     - *Achievements:*
             * Implemented slots infrastructure using Dart Language
@@ -95,7 +89,6 @@
 
 *** Software Engineer (C#), Playtika (2013-2015)
 **** [[https://apps.apple.com/us/app/caesars-casino-official-slots/id603097018][Caesars Casino]]
-    - *Description:* Social Casino Game
     - *Used intensively* C#, Xamarin, Autofac, In-house game engine
     - *Achievements:*
             * Implemented a bunch of new slots and mini-games
