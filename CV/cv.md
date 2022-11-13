@@ -23,7 +23,10 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
 # Professional Experience
 
 
-## Lead Software Engineer (C++), Adverty (2021 Dec - Present). Location: Remotely
+## Lead Software Engineer (C++), Adverty (2021 Dec - Present).
+
+
+### Location: Remotely
 
 
 ### Projects
@@ -44,7 +47,10 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
     -   Implemented a plugin for Unity3d and Unreal Engine.
 
 
-## Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec). Location: Malmo, Sweden.
+## Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec).
+
+
+### Location: Malmo, Sweden.
 
 
 ### Projets
