@@ -3,9 +3,9 @@
 ** Contact information
 - Vitali Liashchuk
 - Poland, Warsaw
-- Phone: +48571060356
+- +48571060356
 - [[https://www.linkedin.com/in/vitali-liashchuk-bb566287/][Linkedin]]
-- Email: [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
+- [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
 ** Summary
   A passionate software engineer with 10 years of experience. I enjoy to automate and simplify. Interested in high performance code.
 ** Skills
