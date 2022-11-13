@@ -24,7 +24,6 @@
              * Implemented texture rendering from WebView to Metal/Vulkan texture.
              * Actively participated in the code review process and team member's support.
              * Implemented a plugin for Unity3d and Unreal Engine.
-
 *** Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec).
 **** [[https://apps.apple.com/se/app/pet-rescue-saga/id572821456][Pet Rescue Saga]]
      - *Used intensively:* C++
