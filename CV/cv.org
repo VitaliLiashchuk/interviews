@@ -1,9 +1,8 @@
 #+OPTIONS: toc:nil        no default TOC at all
-#+OPTIONS: line-break:t
 
 ** Contact information
-   ~Vitali Liashchuk~
-   ~~Poland, Warsaw~
+   Vitali Liashchuk
+   Poland, Warsaw
    Phone: +48571060356
    Email: [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
 
