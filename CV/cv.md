@@ -1,10 +1,8 @@
 
 
-# Vitali Liashchuk
+# Contact information
 
-
-## Contact information
-
+Vitali Liashchuk
 Poland, Warsaw  
 Phone: +48571060356   
 Skype: vitali.liashchuk   
