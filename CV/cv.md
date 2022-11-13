@@ -28,31 +28,26 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
 
 ### Location: Remotely
 
-1.  Projects
+1.  [AdvertySDK](http://adverty.com)
 
-    1.  [AdvertySDK](http://adverty.com)
+    **Description:** Advertising SDK    
+    **Used intensively:** C++/Metal/Vukan/OpenGl   
+    **Achievements:**
     
-        **Description:** Advertising SDK    
-        **Used intensively:** C++/Metal/Vukan/OpenGl   
-        **Achievements:**
-        
-        -   Introduced TDD process to the team.
-        -   Took leadership in SDK architecture design.
-        -   Implemented CMake project infrastracture.
-        -   Designed SDK API.
-        -   Implemented UnitTest and IntegrationTests infrastructure.
-        -   Implemented texture rendering from WebView to Metal/Vulkan texture.
-        -   Actively participated in the code review process and team member's support.
-        -   Implemented a plugin for Unity3d and Unreal Engine.
+    -   Introduced TDD process to the team.
+    -   Took leadership in SDK architecture design.
+    -   Implemented CMake project infrastracture.
+    -   Designed SDK API.
+    -   Implemented UnitTest and IntegrationTests infrastructure.
+    -   Implemented texture rendering from WebView to Metal/Vulkan texture.
+    -   Actively participated in the code review process and team member's support.
+    -   Implemented a plugin for Unity3d and Unreal Engine.
 
 
 ## Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec).
 
 
 ### Location: Malmo, Sweden.
-
-
-### Projets
 
 1.  [Pet Rescue Saga](https://apps.apple.com/se/app/pet-rescue-saga/id572821456)
 
@@ -66,9 +61,6 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
 
 
 ## Senior Software Engineer (C++), Vizor Games (Jun 2019-2020 Apr)
-
-
-### Projects:
 
 1.  [Mahjong Treasure Quest](https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387)
 
@@ -114,9 +106,6 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
 
 ## Senior Software Engineer (C#), MuGames (2015-2016)
 
-
-### Projects:
-
 1.  [WildRide](https://www.youtube.com/watch?v=2PBA6-wSNi0)
 
     **Description:**   
@@ -142,9 +131,6 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
 
 ## Software Engineer (C#), Gambino (2015-2015)
 
-
-### Projects:
-
 1.  [Gambino Slots](https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679)
 
     **Description** Social Casino Game  
@@ -158,9 +144,6 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
 
 
 ## Software Engineer (C#), Playtika (2013-2015)
-
-
-### Projects:
 
 1.  [Caesars Casino](https://apps.apple.com/us/app/caesars-casino-official-slots/id603097018)
 
@@ -176,9 +159,6 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
 
 
 ## Software Engineer (Python), EPAM Systems Inc (2012-2013)
-
-
-### Projects:
 
 1.  Project Name: Under NDA
 
