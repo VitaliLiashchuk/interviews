@@ -15,7 +15,7 @@ test \\\\
 
 #+BEGIN_QUOTE
 some text... \\
-test \\
+test \\\
 test2
 #+END_QUOTE
 
