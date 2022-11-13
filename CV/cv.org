@@ -13,6 +13,10 @@ but not any simpler \\\\
 test \\\\
 #+END_CENTER
 
+#+BEGIN_EXAMPLE
+  Some example from a text file.
+#+END_EXAMPLE
+
 ** Summary
   A passionate software engineer with 10 years of experience. I enjoy to automate and simplify. Interested in high performance code.
 ** Skills
