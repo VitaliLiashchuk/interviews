@@ -1,18 +1,12 @@
 #+OPTIONS: toc:nil        no default TOC at all
 
 ** Contact information
+#+BEGIN_QUOTE
    Vitali Liashchuk
    Poland, Warsaw
    Phone: +48571060356
    Email: [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
-
-   #+BEGIN_VERSE
-   Great clouds overhead
-   Tiny black birds rise and fall
-   Snow covers Emacs
-
-   ---AlexSchroeder
-   #+END_VERSE
+#+END_QUOTE
 
 ** Summary
   A passionate software engineer with 10 years of experience. I enjoy to automate and simplify. Interested in high performance code.
