@@ -28,19 +28,18 @@
 
 ** Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec).
 *** [[https://apps.apple.com/se/app/pet-rescue-saga/id572821456][Pet Rescue Saga]]
-     *Description:* Puzzle\\
-     *Used intensively:* C++\\
-     *Achievements:*
+     - *Description:* Puzzle
+     - *Used intensively:* C++
+     - *Achievements:*
              * Designed new game architecture based on Entity Component System and Data-Oriented principles.
              * Implemented debug tools using the ImGui library
              * Active participation in refactoring initiative.
 
 ** Senior Software Engineer (C++), Vizor Games (Jun 2019-2020 Apr)
 *** [[https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387][Mahjong Treasure Quest]]
- *Description:* Puzzle\\
- *Used intensively:* C++, cocos2d-x\\
- *Achievements:*
-
+- *Description:* Puzzle
+- *Used intensively:* C++, cocos2d-x
+- *Achievements:*
 	    * Active participation in the development of new UI system based on in-house CSS parser
 	    * Implemented object transformations (transform/scale/rotate) for new UI system
         * Significantly improved game tools using ImGui library
@@ -48,18 +47,18 @@
 
 ** Senior Software Engineer (C++/C#), Gambino (2015-2019)
 *** [[https:://slototron.com][Slototron.com]]
-    *Description:* Social Casino Game\\
-    *Used intensively:* C++, emscripten, javascript\\
-    *Achievements:*
+    - *Description:* Social Casino Game
+    - *Used intensively:* C++, emscripten, javascript
+    - *Achievements:*
             * Implemented payment system using paypal. With deep integration C++ and Javascript
             * Implemented requests retrying mechanism which is significantly impoved clien/server connection
             * Optimized game loading time by running HTTP requests in batch
             * Implemented runnable game prototype using C++/emscripten on the Instant Games Platform
 
 *** [[https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679][Gambino Slots]]
-    *Description:* Social Casino Game\\
-    *Used intensively:* C#, Xamarin, Dart Language\\
-    *Achievements:*
+    - *Description:* Social Casino Game
+    - *Used intensively:* C#, Xamarin, Dart Language
+    - *Achievements:*
             * Worked on converter C# to Dart (Based on Roslyn compiler)
             * Reimplemented  Dart version of the game from scratch
             * Ported C# in-house game engine on MacOS
@@ -69,9 +68,9 @@
 
 ** Senior Software Engineer (C#), MuGames (2015-2016)
 *** [[https://www.youtube.com/watch?v=2PBA6-wSNi0][WildRide]]
-    *Description:* \\
-    *Used intensively:* C#, Xamarin, Box2D\\
-    *Achievements:*
+    - *Description:*
+    - *Used intensively:* C#, Xamarin, Box2D
+    - *Achievements:*
             * Implemented advertising manager with different AD providers support (vungle,chartboost,unity,etc)
             * Implemented social plugin system to support different social networks
             * Implemented facebook social plugin (log-in, sharings, friends)
@@ -81,16 +80,16 @@
             * Implemented a continuous integration system  
  
 *** [[https://www.youtube.com/watch?v=l7paSgeKoFU][Viber Rude Rider]]
-    *Description* multi-platform 2D race and shoot game\\
-    *Used intensively:* C#, Xamarin\\
-    *Achievements:*
+    - *Description* multi-platform 2D race and shoot game
+    - *Used intensively:* C#, Xamarin
+    - *Achievements:*
             * Implemented Viber social plugin (log-in, sharings, friends)
 
 ** Software Engineer (C#), Gambino (2015-2015)
 *** [[https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679][Gambino Slots]]
-    *Description* Social Casino Game\\
-    *Used intensively:* C#, Xamarin, Dart Language\\
-    *Achievements:*
+    - *Description* Social Casino Game
+    - *Used intensively:* C#, Xamarin, Dart Language
+    - *Achievements:*
             * Implemented slots infrastructure using Dart Language
             * Implemented reels engine system
             * Implemented cheat system
@@ -98,9 +97,9 @@
 
 ** Software Engineer (C#), Playtika (2013-2015)
 *** [[https://apps.apple.com/us/app/caesars-casino-official-slots/id603097018][Caesars Casino]]
-    *Description:* Social Casino Game\\
-    *Used intensively* C#, Xamarin, Autofac, In-house game engine\\
-    *Achievements:*
+    - *Description:* Social Casino Game
+    - *Used intensively* C#, Xamarin, Autofac, In-house game engine
+    - *Achievements:*
             * Implemented a bunch of new slots and mini-games
             * Implemented sound manager
             * Refactored reels engine
@@ -109,8 +108,8 @@
 
 ** Software Engineer (Python), EPAM Systems Inc (2012-2013)
 *** Project Name: Under NDA
-    *Description:* Monitoring application for large distributed data storage systems.\\
-    *Used intensively:* python, javascript\\
-    *Achievements:*
+    - *Description:* Monitoring application for large distributed data storage systems.
+    - *Used intensively:* python, javascript
+    - *Achievements:*
             * Implemented a collecting system that aggregates metrics from data storages
             * Covered the data collecting system with unit tests
