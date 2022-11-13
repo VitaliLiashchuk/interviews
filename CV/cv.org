@@ -6,13 +6,6 @@
 - Phone: +48571060356
 - Email: [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
 
-* Dfeich's Org-babel, org-exporter, org-table example collection
-
-  This is my collection of example documents to demonstrate the usage
-  of org mode, and especially org-babel with different languages. I
-  also show some exporter functionality in respect to a few
-  backends.
-
 ** Summary
   A passionate software engineer with 10 years of experience. I enjoy to automate and simplify. Interested in high performance code.
 ** Skills
