@@ -25,9 +25,6 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
 
 ## Lead Software Engineer (C++), Adverty (2021 Dec - Present).
 
-
-### Location: Remotely
-
 1.  [AdvertySDK](http://adverty.com)
 
     **Description:** Advertising SDK    
@@ -45,9 +42,6 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
 
 
 ## Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec).
-
-
-### Location: Malmo, Sweden.
 
 1.  [Pet Rescue Saga](https://apps.apple.com/se/app/pet-rescue-saga/id572821456)
 
