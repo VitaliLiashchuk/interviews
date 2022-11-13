@@ -15,7 +15,7 @@
 *** Lead Software Engineer (C++), Adverty (2021 Dec - Present).
 **** [[http://adverty.com][AdvertySDK]]
      - *Description:* Advertising SDK
-     - *Used intensively:* C++/Metal/Vukan/OpenGl
+     - *Used intensively:* C++/Metal/Vukan/OpenGL
      - *Achievements:*
              * Introduced TDD process to the team.
              * Took leadership in SDK architecture design.
