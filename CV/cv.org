@@ -1,7 +1,7 @@
 #+OPTIONS: toc:nil        no default TOC at all
 
 * Contact information
-   Vitali Liashchuk
+   Vitali Liashchuk\\
    Poland, Warsaw\\
    Phone: +48571060356 \\
    Skype: vitali.liashchuk \\
