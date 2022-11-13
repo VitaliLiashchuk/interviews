@@ -2,11 +2,17 @@
 
 # Contact information
 
-Vitali Liashchuk   
-Poland, Warsaw   
-Phone: +48571060356   
-Skype: vitali.liashchuk   
-Email: [vitali.liashchuk@gmail.com](mailto:vitali.liashchuk@gmail.com)
+
+## Vitali Liashchuk
+
+
+## Poland, Warsaw
+
+
+## Phone: +48571060356
+
+
+## Email: [vitali.liashchuk@gmail.com](mailto:vitali.liashchuk@gmail.com)
 
 
 # Summary
@@ -16,7 +22,7 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
 
 # Skills
 
-**Languages:** C++, C#, Python    
+**Languages:** C++, C#, Python
 **Technologies:** STL, Boost, Unreal Engine, Unity3d, cocos2d-x, Linux, FreeBSD
 
 
