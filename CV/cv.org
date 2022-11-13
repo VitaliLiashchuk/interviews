@@ -18,8 +18,8 @@
 
 ** Lead Software Engineer (C++), Adverty (2021 Dec - Present).
 *** Location: Remotely
-*** Projects
-**** [[http://adverty.com][AdvertySDK]]
+**** Projects
+***** [[http://adverty.com][AdvertySDK]]
      *Description:* Advertising SDK  \\
      *Used intensively:* C++/Metal/Vukan/OpenGl \\
      *Achievements:*

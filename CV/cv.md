@@ -28,23 +28,22 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
 
 ### Location: Remotely
 
+1.  Projects
 
-### Projects
-
-1.  [AdvertySDK](http://adverty.com)
-
-    **Description:** Advertising SDK    
-    **Used intensively:** C++/Metal/Vukan/OpenGl   
-    **Achievements:**
+    1.  [AdvertySDK](http://adverty.com)
     
-    -   Introduced TDD process to the team.
-    -   Took leadership in SDK architecture design.
-    -   Implemented CMake project infrastracture.
-    -   Designed SDK API.
-    -   Implemented UnitTest and IntegrationTests infrastructure.
-    -   Implemented texture rendering from WebView to Metal/Vulkan texture.
-    -   Actively participated in the code review process and team member's support.
-    -   Implemented a plugin for Unity3d and Unreal Engine.
+        **Description:** Advertising SDK    
+        **Used intensively:** C++/Metal/Vukan/OpenGl   
+        **Achievements:**
+        
+        -   Introduced TDD process to the team.
+        -   Took leadership in SDK architecture design.
+        -   Implemented CMake project infrastracture.
+        -   Designed SDK API.
+        -   Implemented UnitTest and IntegrationTests infrastructure.
+        -   Implemented texture rendering from WebView to Metal/Vulkan texture.
+        -   Actively participated in the code review process and team member's support.
+        -   Implemented a plugin for Unity3d and Unreal Engine.
 
 
 ## Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec).
