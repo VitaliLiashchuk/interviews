@@ -1,4 +1,22 @@
 
+# Table of Contents
+
+1.  [Contact information](#orgf43f95d)
+2.  [Summary](#org3a4b75c)
+3.  [Skills](#orga7a989e)
+4.  [Professional Experience](#org93fc652)
+    1.  [Lead Software Engineer (C++), Adverty (2021 Dec - Present).](#org4885849)
+    2.  [Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec).](#org3a4febc)
+    3.  [Senior Software Engineer (C++), Vizor Games (Jun 2019-2020 Apr)](#orge4c0ebd)
+    4.  [Senior Software Engineer (C++/C#), Gambino (2015-2019)](#orgce6c0b0)
+        1.  [Projects:](#orgfbe9196)
+    5.  [Senior Software Engineer (C#), MuGames (2015-2016)](#org775ba3d)
+    6.  [Software Engineer (C#), Gambino (2015-2015)](#org8393a4b)
+    7.  [Software Engineer (C#), Playtika (2013-2015)](#org387acad)
+    8.  [Software Engineer (Python), EPAM Systems Inc (2012-2013)](#org46e83bc)
+
+
+<a id="orgf43f95d"></a>
 
 # Contact information
 
@@ -8,10 +26,14 @@ Phone: +48571060356
 Email: [vitali.liashchuk@gmail.com](mailto:vitali.liashchuk@gmail.com)
 
 
+<a id="org3a4b75c"></a>
+
 # Summary
 
 A passionate software engineer with 10 years of experience. I enjoy to automate and simplify. Interested in high performance code.
 
+
+<a id="orga7a989e"></a>
 
 # Skills
 
@@ -19,8 +41,12 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
 **Technologies:** STL, Boost, Unreal Engine, Unity3d, cocos2d-x, Linux, FreeBSD
 
 
+<a id="org93fc652"></a>
+
 # Professional Experience
 
+
+<a id="org4885849"></a>
 
 ## Lead Software Engineer (C++), Adverty (2021 Dec - Present).
 
@@ -40,6 +66,8 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
     -   Implemented a plugin for Unity3d and Unreal Engine.
 
 
+<a id="org3a4febc"></a>
+
 ## Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec).
 
 1.  [Pet Rescue Saga](https://apps.apple.com/se/app/pet-rescue-saga/id572821456)
@@ -52,6 +80,8 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
     -   Implemented debug tools using the ImGui library
     -   Active participation in refactoring initiative.
 
+
+<a id="orge4c0ebd"></a>
 
 ## Senior Software Engineer (C++), Vizor Games (Jun 2019-2020 Apr)
 
@@ -67,8 +97,12 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
     -   Designed and implemented new Flow Actions System
 
 
+<a id="orgce6c0b0"></a>
+
 ## Senior Software Engineer (C++/C#), Gambino (2015-2019)
 
+
+<a id="orgfbe9196"></a>
 
 ### Projects:
 
@@ -97,6 +131,8 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
     -   Deep code refactoring. Splitting codebase for specific platforms
 
 
+<a id="org775ba3d"></a>
+
 ## Senior Software Engineer (C#), MuGames (2015-2016)
 
 1.  [WildRide](https://www.youtube.com/watch?v=2PBA6-wSNi0)
@@ -122,6 +158,8 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
     -   Implemented Viber social plugin (log-in, sharings, friends)
 
 
+<a id="org8393a4b"></a>
+
 ## Software Engineer (C#), Gambino (2015-2015)
 
 1.  [Gambino Slots](https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679)
@@ -135,6 +173,8 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
     -   Implemented cheat system
     -   Fixed loading issues on IE/Edge browsers
 
+
+<a id="org387acad"></a>
 
 ## Software Engineer (C#), Playtika (2013-2015)
 
@@ -150,6 +190,8 @@ A passionate software engineer with 10 years of experience. I enjoy to automate 
     -   Implemented server requests stub system
     -   Helped to discover and fix a lot of bugs in the game engine (render system, animation system, sound system)
 
+
+<a id="org46e83bc"></a>
 
 ## Software Engineer (Python), EPAM Systems Inc (2012-2013)
 

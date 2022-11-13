@@ -1,6 +1,3 @@
-#+OPTIONS: toc:nil        no default TOC at all
-#+STARTUP: indent
-
 ** Contact information
    Vitali Liashchuk
    Poland, Warsaw
