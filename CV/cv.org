@@ -12,7 +12,7 @@
 
 * Skills
   *Languages:* C++, C#, Python  \\
-  *Technologies:* STL/Boost, Unreal Engine/Unity3d/cocos2d-x, Linux/FreeBSD
+  *Technologies:* STL, Boost, Unreal Engine, Unity3d, cocos2d-x, Linux, FreeBSD
 
 * Professional Experience
 
