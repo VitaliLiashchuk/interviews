@@ -16,7 +16,7 @@
 
 * Professional Experience
 
-** Lead Software Engineer (C++), Adverty (2021 Dec - Present)
+** Lead Software Engineer (C++), Adverty (2021 Dec - Present). Location: Remotely
 *** Projects
 **** [[http://adverty.com][AdvertySDK]]
      *Description:* Advertising SDK  \\
@@ -31,7 +31,7 @@
              * Actively participated in the code review process and team member's support.
              * Implemented a plugin for Unity3d and Unreal Engine.
 
-** Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec)
+** Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec). Location: Malmo, Sweden.
 *** Projets
 **** [[https://apps.apple.com/se/app/pet-rescue-saga/id572821456][Pet Rescue Saga]]
      *Description:* Puzzle\\
