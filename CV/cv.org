@@ -13,8 +13,7 @@
  - *Technologies:* STL, Boost, Unreal Engine, Unity3d, cocos2d-x, Linux, FreeBSD
 ** Professional Experience
 *** Lead Software Engineer (C++), Adverty (2021 Dec - Present).
-**** [[http://adverty.com][AdvertySDK]]
-     - *Description:* Advertising SDK
+**** [[http://adverty.com][AdvertySDK]] Advertising SDK
      - *Used intensively:* C++/Metal/Vukan/OpenGL
      - *Achievements:*
              * Introduced TDD process to the team.
@@ -27,8 +26,7 @@
              * Implemented a plugin for Unity3d and Unreal Engine.
 
 *** Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec).
-**** [[https://apps.apple.com/se/app/pet-rescue-saga/id572821456][Pet Rescue Saga]]
-     - *Description:* Puzzle
+**** [[https://apps.apple.com/se/app/pet-rescue-saga/id572821456][Pet Rescue Saga]] Puzzle game
      - *Used intensively:* C++
      - *Achievements:*
              * Designed new game architecture based on Entity Component System and Data-Oriented principles.
