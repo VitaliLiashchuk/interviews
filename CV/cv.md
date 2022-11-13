@@ -13,21 +13,18 @@ Email: [vitali.liashchuk@gmail.com](mailto:vitali.liashchuk@gmail.com)
 
 # Summary
 
-Software engineer with 10+ years of experience including 7 years in the game industry. Good understanding of OOP principles, and high-quality code design. Knowledge of software development processes and methodologies. Experience working in an Agile environment. Analytical mind.
+A passionate software engineer with 10 years of experience. I enjoy to automate and simplify. Interested in high performance code.
 
 
 # Skills
 
-**Programming Languages:** C++/C#    
+**Programming Languages:** C++    
 **Frameworks & Libs:**
 
 -   STL/Boost
+-   C++ Bindings for Java/ObjC/C#
 -   Unreal Engine/Unity3d/cocos2d-x
--   Xamarin/.NET Framework
 -   in-house game engines
-
-**Tools:** git, cmake, unix shell, emacs, vim   
-**Other:** Jira/Confluence, GitLab CI/TeamCity/Jenkins   
 
 
 # Professional Experience
@@ -41,9 +38,10 @@ Software engineer with 10+ years of experience including 7 years in the game ind
 1.  [AdvertySDK](http://adverty.com)
 
     **Description:** Advertising SDK    
-    **Used intensively:** C++/Metal/Vukan/OpenGl/Shaders   
+    **Used intensively:** C++/Metal/Vukan/OpenGl   
     **Achievements:**
     
+    -   Introduced TDD process to the team.
     -   Took leadership in SDK architecture design.
     -   Implemented CMake project infrastracture.
     -   Designed SDK API.
@@ -116,7 +114,7 @@ Software engineer with 10+ years of experience including 7 years in the game ind
     -   Deep code refactoring. Splitting codebase for specific platforms
 
 
-## Senior Software Engineer (C#), Synesis/MuGames (2015-2016)
+## Senior Software Engineer (C#), MuGames (2015-2016)
 
 
 ### Projects:
@@ -192,17 +190,4 @@ Software engineer with 10+ years of experience including 7 years in the game ind
     
     -   Implemented a collecting system that aggregates metrics from data storages
     -   Covered the data collecting system with unit tests
-
-
-## Self Study
-
-Playing with gamedev trending technologies such as Unreal Engine.  
-Courses:
-       <https://www.udemy.com/unrealcourse/learn/v4/overview>   
-       <https://www.coursera.org/learn/algorithms-part1>
-
-Reading professional literature:
-
--   Game Engine Architecture, Jason Gregory
--   Effective Modern C++, Skott Meyers
 
