@@ -2,17 +2,10 @@
 
 # Contact information
 
-
-## Vitali Liashchuk
-
-
-## Poland, Warsaw
-
-
-## Phone: +48571060356
-
-
-## Email: [vitali.liashchuk@gmail.com](mailto:vitali.liashchuk@gmail.com)
+Vitali Liashchuk
+Poland, Warsaw
+Phone: +48571060356
+Email: [vitali.liashchuk@gmail.com](mailto:vitali.liashchuk@gmail.com)
 
 
 # Summary

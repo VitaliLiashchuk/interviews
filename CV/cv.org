@@ -1,10 +1,10 @@
 #+OPTIONS: toc:nil        no default TOC at all
 
 ** Contact information
-*** Vitali Liashchuk
-*** Poland, Warsaw
-*** Phone: +48571060356
-*** Email: [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
+   Vitali Liashchuk
+   Poland, Warsaw
+   Phone: +48571060356
+   Email: [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
 ** Summary
   A passionate software engineer with 10 years of experience. I enjoy to automate and simplify. Interested in high performance code.
 ** Skills
