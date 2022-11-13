@@ -8,7 +8,7 @@
 #+END_CENTER
 
 #+BEGIN_CENTER
-Everything should be made as simple as possible, \\
+Everything should be made as simple as possible,
 but not any simpler \\
 test
 #+END_CENTER
