@@ -1,0 +1,154 @@
+
+
+# Contact information
+
+-   Vitali Liashchuk
+-   Poland, Warsaw
+-   +48571060356
+-   [Linkedin](https://www.linkedin.com/in/vitali-liashchuk-bb566287/)
+-   [vitali.liashchuk@gmail.com](mailto:vitali.liashchuk@gmail.com)
+
+
+# Summary
+
+A passionate software engineer with 10 years of experience. I enjoy to automate and simplify. Interested in high performance code.
+
+
+# Skills
+
+-   **Languages:** C++, C#, Python
+-   **Technologies:** STL, Boost, Unreal Engine, Unity3d, cocos2d-x, Linux, FreeBSD
+-   **Tools:** Git, CMake, Gradle, Jenkins
+
+
+# Professional Experience
+
+
+## Lead Software Engineer (C++), Adverty (2021 Dec - Present).
+
+
+### [AdvertySDK](http://adverty.com)
+
+-   **Used intensively:** C++/Metal/Vukan/OpenGL
+-   **Achievements:**
+    -   Successfully released the product by developing and leading it from scratch.
+    -   Introduced TDD process to the team.
+    -   Took leadership in SDK architecture design.
+    -   Implemented CMake project infrastracture.
+    -   Designed SDK API.
+    -   Implemented UnitTest and IntegrationTests infrastructure.
+    -   Implemented Graphics library with Vulkan/OpenGL/Metal/DX11 support.
+    -   Worked on SDK integration to Unity3d and Unreal Engine.
+
+
+## Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec).
+
+
+### [Pet Rescue Saga](https://apps.apple.com/se/app/pet-rescue-saga/id572821456)
+
+-   **Used intensively:** C++
+-   **Achievements:**
+    -   Designed new game architecture based on Entity Component System and Data-Oriented principles.
+    -   Implemented debug tools using the ImGui library
+    -   Active participation in refactoring initiative.
+
+
+## Senior Software Engineer (C++), Vizor Games (Jun 2019-2020 Apr)
+
+
+### [Mahjong Treasure Quest](https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387)
+
+-   **Used intensively:** C++, cocos2d-x
+-   **Achievements:**
+    -   Active participation in the development of new UI system based on in-house CSS parser
+    -   Implemented object transformations (transform/scale/rotate) for new UI system
+    -   Significantly improved game tools using ImGui library
+    -   Designed and implemented new Flow Actions System
+
+
+## Senior Software Engineer (C++/C#), Gambino (2015-2019)
+
+
+### [Slototron.com](https:://slototron.com)
+
+-   **Used intensively:** C++, emscripten, javascript
+-   **Achievements:**
+    -   Implemented payment system using paypal. With deep integration C++ and Javascript
+    -   Implemented requests retrying mechanism which is significantly impoved clien/server connection
+    -   Optimized game loading time by running HTTP requests in batch
+    -   Implemented runnable game prototype using C++/emscripten on the Instant Games Platform
+
+
+### [Gambino Slots](https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679)
+
+-   **Used intensively:** C#, Xamarin, Dart Language
+-   **Achievements:**
+    -   Worked on converter C# to Dart (Based on Roslyn compiler)
+    -   Reimplemented  Dart version of the game from scratch
+    -   Ported C# in-house game engine on MacOS
+    -   Integrated scissor OpenGl mechanism into the game
+    -   Integrated Firebase push messaging system
+    -   Deep code refactoring. Splitting codebase for specific platforms
+
+
+## Senior Software Engineer (C#), MuGames (2015-2016)
+
+
+### [WildRide](https://www.youtube.com/watch?v=2PBA6-wSNi0)
+
+-   **Used intensively:** C#, Xamarin, Box2D
+-   **Achievements:**
+    -   Implemented advertising manager with different AD providers support (vungle,chartboost,unity,etc)
+    -   Implemented social plugin system to support different social networks
+    -   Implemented facebook social plugin (log-in, sharings, friends)
+    -   Implemented online contests system
+    -   Implemented anti-cheaters mechanism
+    -   Integrated a binary resources format
+    -   Implemented a continuous integration system
+
+
+### [Viber Rude Rider](https://www.youtube.com/watch?v=l7paSgeKoFU)
+
+-   **Used intensively:** C#, Xamarin
+-   **Achievements:**
+    -   Implemented Viber social plugin (log-in, sharings, friends)
+
+
+## Software Engineer (C#), Gambino (2015-2015)
+
+
+### [Gambino Slots](https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679)
+
+-   **Used intensively:** C#, Xamarin, Dart Language
+-   **Achievements:**
+    -   Implemented slots infrastructure using Dart Language
+    -   Implemented reels engine system
+    -   Implemented cheat system
+    -   Fixed loading issues on IE/Edge browsers
+
+
+## Software Engineer (C#), Playtika (2013-2015)
+
+
+### [Caesars Casino](https://apps.apple.com/us/app/caesars-casino-official-slots/id603097018)
+
+-   **Used intensively** C#, Xamarin, Autofac, In-house game engine
+-   **Achievements:**
+    -   Implemented a bunch of new slots and mini-games
+    -   Implemented sound manager
+    -   Refactored reels engine
+    -   Implemented server requests stub system
+    -   Helped to discover and fix a lot of bugs in the game engine (render system, animation system, sound system)
+
+
+## Software Engineer (Python), EPAM Systems Inc (2012-2013)
+
+
+### Project Name: Under NDA
+
+-   **Description:** Monitoring application for large distributed data storage systems.
+-   **Used intensively:** python, javascript
+-   **Achievements:**
+    -   Implemented a collecting system that aggregates metrics from data storages
+    -   Covered the data collecting system with unit tests
+
