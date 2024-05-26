@@ -17,14 +17,14 @@
 **** [[http://adverty.com][AdvertySDK]]
      - *Used intensively:* C++/Metal/Vukan/OpenGL
      - *Achievements:*
+             * Successfully released the product by developing and leading it from scratch.
              * Introduced TDD process to the team.
              * Took leadership in SDK architecture design.
              * Implemented CMake project infrastracture.
              * Designed SDK API.
              * Implemented UnitTest and IntegrationTests infrastructure.
-             * Implemented texture rendering from WebView to Metal/Vulkan texture.
-             * Actively participated in the code review process and team member's support.
-             * Implemented a plugin for Unity3d and Unreal Engine.
+             * Implemented Graphics library with Vulkan/OpenGL/Metal/DX11 support.
+             * Worked on SDK integration to Unity3d and Unreal Engine.
 *** Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec).
 **** [[https://apps.apple.com/se/app/pet-rescue-saga/id572821456][Pet Rescue Saga]]
      - *Used intensively:* C++
