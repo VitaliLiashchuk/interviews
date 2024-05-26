@@ -11,7 +11,7 @@
 ** Skills
  - *Languages:* C++, C#, Python
  - *Technologies:* STL, Boost, Unreal Engine, Unity3d, cocos2d-x, Linux, FreeBSD
- - *Tools:* Git, CMake, Gradle/Jenkins
+ - *Tools:* Git, CMake, Gradle, Jenkins
 ** Professional Experience
 *** Lead Software Engineer (C++), Adverty (2021 Dec - Present).
 **** [[http://adverty.com][AdvertySDK]]
