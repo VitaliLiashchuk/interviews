@@ -10,7 +10,7 @@
   A passionate software engineer with 10 years of experience. I enjoy to automate and simplify. Interested in high performance code.
 ** Skills
  - *Languages:* C++, C#, Python
- - *Technologies:* STL, Boost, Unreal Engine, Unity3d, cocos2d-x, Linux
+ - *Technologies:* STL, Boost, Unreal Engine, Unity3d, Cocos2d-x, Linux
  - *Tools:* Git, CMake, Gradle, Jenkins
 ** Professional Experience
 *** Lead Software Engineer (C++), Adverty (2021 Dec - Present).
