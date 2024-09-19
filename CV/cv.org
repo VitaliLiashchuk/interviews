@@ -10,7 +10,7 @@
   A passionate software engineer with 10 years of experience. I enjoy to automate and simplify. Interested in high performance code.
 ** Skills
  - *Languages:* C++, C#, Python
- - *Technologies:* STL, Boost, Unreal Engine, Unity3d, cocos2d-x, Linux, FreeBSD
+ - *Technologies:* STL, Boost, Unreal Engine, Unity3d, cocos2d-x, Linux
  - *Tools:* Git, CMake, Gradle, Jenkins
 ** Professional Experience
 *** Lead Software Engineer (C++), Adverty (2021 Dec - Present).
@@ -25,6 +25,7 @@
              * Implemented UnitTest and IntegrationTests infrastructure.
              * Implemented Graphics library with Vulkan/OpenGL/Metal/DX11 support.
              * Worked on SDK integration to Unity3d and Unreal Engine.
+             * Implemented video player with ffmpeg backend.
 *** Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec).
 **** [[https://apps.apple.com/se/app/pet-rescue-saga/id572821456][Pet Rescue Saga]]
      - *Used intensively:* C++
