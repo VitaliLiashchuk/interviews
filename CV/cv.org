@@ -1,4 +1,5 @@
 #+OPTIONS: toc:nil        no default TOC at all
+#+LATEX_HEADER: \pagestyle{empty}
 
 ** Contact information
 - Vitali Liashchuk
