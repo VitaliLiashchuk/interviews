@@ -8,13 +8,14 @@
 - [[https://www.linkedin.com/in/vitali-liashchuk-bb566287/][Linkedin]]
 - [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
 ** Summary
-  A passionate software engineer with 10 years of experience. I enjoy to automate and simplify. Interested in high performance code.
+  As a passionate software engineer with 10 years of experience, I don’t just write code—I deliver results. From concept to deployment, I ensure every product meets real-world needs and exceeds expectations.
 ** Skills
  - *Languages:* C++, C#, Python
  - *Technologies:* STL, Boost, Unreal Engine, Unity3d, Cocos2d-x, Linux
+ - *AI & Machine Learning:* OpenAI API, Retrieval-Augmented Generation (RAG), Llama (LlamaIndex), GPT-based integration, vector databases, and model optimization for production.
  - *Tools:* Git, CMake, Gradle, Jenkins
 ** Professional Experience
-*** Lead Software Engineer (C++), Adverty (2021 Dec - Present).
+*** Tech Lead (C++), Adverty (2021 Dec - Present).
 **** [[http://adverty.com][AdvertySDK]]
      - *Used intensively:* C++/Metal/Vukan/OpenGL
      - *Achievements:*
