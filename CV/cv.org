@@ -1,101 +1,114 @@
 #+OPTIONS: toc:nil        no default TOC at all
 #+LATEX_HEADER: \pagestyle{empty}
 
-** Contact information
+** Contact Information
 - Vitali Liashchuk
-- Poland, Warsaw
-- +48571060356
-- [[https://www.linkedin.com/in/vitali-liashchuk-bb566287/][Linkedin]]
+- Warsaw, Poland
+- +48 571 060 356
+- [[https://www.linkedin.com/in/vitali-liashchuk-bb566287/][LinkedIn]]
 - [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
+
 ** Summary
-  As a passionate software engineer with 10 years of experience, I don’t just write code—I deliver results. From concept to deployment, I ensure every product meets real-world needs and exceeds expectations.
+As a passionate software engineer with 10 years of experience, I don’t just write code but I deliver results. From concept to deployment, I ensure every product meets real-world needs and exceeds expectations.
 ** Skills
- - *Languages:* C++, C#, Python
- - *Technologies:* STL, Boost, Unreal Engine, Unity3d, Cocos2d-x, Linux
- - *AI & Machine Learning:* OpenAI API, Retrieval-Augmented Generation (RAG), Llama (LlamaIndex), GPT-based integration, vector databases, and model optimization for production.
- - *Tools:* Git, CMake, Gradle, Jenkins
+- *Programming Languages:* C++, C#
+- *Game Engines & Platforms:* Unity3D, Unreal Engine, Cocos2d-x, WebGL, Custom engine development
+- *Cross-Platform Development:* macOS, iOS, Android, Windows, Linux; multithreading; low-level debugging
+- *Graphics & Rendering:* OpenGL, Vulkan, Metal, Shaders
+- *AI & Tools:* OpenAI API, GPT-based tools, Retrieval-Augmented Generation (RAG), LlamaIndex, vector databases
+- *Build Systems & CI:* CMake, Make, Gradle, Jenkins, Git, GitHub Actions, CI/CD pipelines
+- *Scripting & Automation:* Python, Bash
 ** Professional Experience
-*** Tech Lead (C++), Adverty (2021 Dec - Present).
+*** Tech Lead (C++), Adverty (Dec 2021–Present)
 **** [[http://adverty.com][AdvertySDK]]
-     - *Used intensively:* C++/Metal/Vukan/OpenGL
-     - *Achievements:*
-             * Successfully released the product by developing and leading it from scratch.
-             * Introduced TDD process to the team.
-             * Took leadership in SDK architecture design.
-             * Implemented CMake project infrastracture.
-             * Designed SDK API.
-             * Implemented UnitTest and IntegrationTests infrastructure.
-             * Implemented Graphics library with Vulkan/OpenGL/Metal/DX11 support.
-             * Worked on SDK integration to Unity3d and Unreal Engine.
-             * Implemented video player with ffmpeg backend.
-*** Senior Software Engineer (C++), King.com (2020 Apr - 2021 Dec).
-**** [[https://apps.apple.com/se/app/pet-rescue-saga/id572821456][Pet Rescue Saga]]
-     - *Used intensively:* C++
-     - *Achievements:*
-             * Designed new game architecture based on Entity Component System and Data-Oriented principles.
-             * Implemented debug tools using the ImGui library
-             * Active participation in refactoring initiative.
-*** Senior Software Engineer (C++), Vizor Games (Jun 2019-2020 Apr)
-**** [[https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387][Mahjong Treasure Quest]]
-- *Used intensively:* C++, cocos2d-x
+- *Used intensively:* C++, Metal, Vulkan, OpenGL  
 - *Achievements:*
-	    * Active participation in the development of new UI system based on in-house CSS parser
-	    * Implemented object transformations (transform/scale/rotate) for new UI system
-        * Significantly improved game tools using ImGui library
-        * Designed and implemented new Flow Actions System
-*** Senior Software Engineer (C++/C#), Gambino (2015-2019)
-**** [[https:://slototron.com][Slototron.com]]
-    - *Used intensively:* C++, emscripten, javascript
-    - *Achievements:*
-            * Implemented payment system using paypal. With deep integration C++ and Javascript
-            * Implemented requests retrying mechanism which is significantly impoved clien/server connection
-            * Optimized game loading time by running HTTP requests in batch
-            * Implemented runnable game prototype using C++/emscripten on the Instant Games Platform
+  * Successfully led the development and release of the SDK from scratch  
+  * Introduced TDD processes to the team  
+  * Led the SDK architecture design  
+  * Implemented CMake project infrastructure  
+  * Designed the SDK API  
+  * Built unit and integration test infrastructure  
+  * Implemented a graphics library with Vulkan/OpenGL/Metal/DX11 support  
+  * Developed SDK integrations for Unity3D and Unreal Engine  
+  * Created a video player with an FFmpeg backend  
+
+*** Senior Software Engineer (C++), King.com (Apr 2020–Dec 2021)  
+**** [[https://apps.apple.com/se/app/pet-rescue-saga/id572821456][Pet Rescue Saga]]
+- *Used intensively:* C++  
+- *Achievements:*
+  * Designed a new game architecture based on ECS and data-oriented principles  
+  * Created debugging tools using the ImGui library  
+  * Actively participated in codebase refactoring  
+
+*** Senior Software Engineer (C++), Vizor Games (Jun 2019–Apr 2020)  
+**** [[https://apps.apple.com/us/app/mahjong-treasure-quest/id1098189387][Mahjong Treasure Quest]]
+- *Used intensively:* C++, Cocos2d-x  
+- *Achievements:*
+  * Helped develop a new UI system using an in-house CSS parser  
+  * Implemented object transformations (transform/scale/rotate)  
+  * Significantly improved game tools using the ImGui library  
+  * Designed and implemented a new Flow Actions System  
+
+*** Senior Software Engineer (C++/C#), Gambino (2015–2019)  
+**** [[https://slototron.com][Slototron.com]]
+- *Used intensively:* C++, Emscripten, JavaScript  
+- *Achievements:*
+  * Developed a PayPal-based payment system with deep C++/JavaScript integration  
+  * Implemented a request retry mechanism, significantly improving client-server reliability  
+  * Optimized loading time by batching HTTP requests  
+  * Built a runnable prototype using C++/Emscripten for Instant Games  
+
 **** [[https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679][Gambino Slots]]
-    - *Used intensively:* C#, Xamarin, Dart Language
-    - *Achievements:*
-            * Worked on converter C# to Dart (Based on Roslyn compiler)
-            * Reimplemented  Dart version of the game from scratch
-            * Ported C# in-house game engine on MacOS
-            * Integrated scissor OpenGl mechanism into the game
-            * Integrated Firebase push messaging system 
-            * Deep code refactoring. Splitting codebase for specific platforms
-*** Senior Software Engineer (C#), MuGames (2015-2016)
+- *Used intensively:* C#, Xamarin, Dart  
+- *Achievements:*
+  * Worked on a C# to Dart converter based on the Roslyn compiler  
+  * Rewrote the game in Dart from scratch  
+  * Ported the in-house C# game engine to macOS  
+  * Integrated OpenGL’s scissor mechanism  
+  * Integrated Firebase push messaging  
+  * Refactored and modularized the codebase per platform  
+
+*** Senior Software Engineer (C#), MuGames (2015–2016)  
 **** [[https://www.youtube.com/watch?v=2PBA6-wSNi0][WildRide]]
-    - *Used intensively:* C#, Xamarin, Box2D
-    - *Achievements:*
-            * Implemented advertising manager with different AD providers support (vungle,chartboost,unity,etc)
-            * Implemented social plugin system to support different social networks
-            * Implemented facebook social plugin (log-in, sharings, friends)
-            * Implemented online contests system
-            * Implemented anti-cheaters mechanism
-            * Integrated a binary resources format
-            * Implemented a continuous integration system
+- *Used intensively:* C#, Xamarin, Box2D  
+- *Achievements:*
+  * Developed an ad manager supporting multiple providers (Vungle, Chartboost, Unity, etc.)  
+  * Created a social plugin system for multiple networks  
+  * Integrated Facebook login, sharing, and friends features  
+  * Implemented an online contest system  
+  * Built an anti-cheating mechanism  
+  * Integrated binary resource formats  
+  * Established a continuous integration system  
+
 **** [[https://www.youtube.com/watch?v=l7paSgeKoFU][Viber Rude Rider]]
-    - *Used intensively:* C#, Xamarin
-    - *Achievements:*
-            * Implemented Viber social plugin (log-in, sharings, friends)
-*** Software Engineer (C#), Gambino (2015-2015)
+- *Used intensively:* C#, Xamarin  
+- *Achievements:*
+  * Integrated Viber social plugin for login, sharing, and friends  
+
+*** Software Engineer (C#), Gambino (2015)  
 **** [[https://apps.apple.com/us/app/gambino-slots-machine-casino/id1339105679][Gambino Slots]]
-    - *Used intensively:* C#, Xamarin, Dart Language
-    - *Achievements:*
-            * Implemented slots infrastructure using Dart Language
-            * Implemented reels engine system
-            * Implemented cheat system
-            * Fixed loading issues on IE/Edge browsers
-*** Software Engineer (C#), Playtika (2013-2015)
+- *Used intensively:* C#, Xamarin, Dart  
+- *Achievements:*
+  * Implemented slot infrastructure using Dart  
+  * Developed a reels engine  
+  * Built a cheat/debug system  
+  * Fixed loading issues on IE/Edge  
+
+*** Software Engineer (C#), Playtika (2013–2015)  
 **** [[https://apps.apple.com/us/app/caesars-casino-official-slots/id603097018][Caesars Casino]]
-    - *Used intensively* C#, Xamarin, Autofac, In-house game engine
-    - *Achievements:*
-            * Implemented a bunch of new slots and mini-games
-            * Implemented sound manager
-            * Refactored reels engine
-            * Implemented server requests stub system 
-            * Helped to discover and fix a lot of bugs in the game engine (render system, animation system, sound system)
-*** Software Engineer (Python), EPAM Systems Inc (2012-2013)
-**** Project Name: Under NDA
-    - *Description:* Monitoring application for large distributed data storage systems.
-    - *Used intensively:* python, javascript
-    - *Achievements:*
-            * Implemented a collecting system that aggregates metrics from data storages
-            * Covered the data collecting system with unit tests
+- *Used intensively:* C#, Xamarin, Autofac, in-house game engine  
+- *Achievements:*
+  * Developed multiple slot machines and mini-games  
+  * Implemented a sound manager  
+  * Refactored the reels engine  
+  * Built a stub system for server request mocking  
+  * Helped uncover and resolve bugs in rendering, animation, and sound subsystems  
+
+*** Software Engineer (Python), EPAM Systems Inc. (2012–2013)  
+**** Project Name: Under NDA  
+- *Description:* Monitoring application for large-scale distributed data storage  
+- *Used intensively:* Python, JavaScript  
+- *Achievements:*
+  * Developed a data aggregation system for metrics collection  
+  * Wrote unit tests for the entire data collection subsystem
