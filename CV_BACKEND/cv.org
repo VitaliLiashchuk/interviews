@@ -9,7 +9,7 @@
 - [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
 
 ** Summary
-As a passionate software engineer with 10 years of experience, I don’t just write code but I deliver results. From concept to deployment, I ensure every product meets real-world needs and exceeds expectations.
+As a passionate software engineer with 10 years of experience, I don't just write code but deliver results. From concept to deployment, I ensure every product meets real-world needs and exceeds expectations.
 ** Skills
 - *Programming Languages:* C++, C#
 - *Game Engines & Platforms:* Unity3D, Unreal Engine, Cocos2d-x, WebGL, Custom engine development
