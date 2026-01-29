@@ -7,27 +7,39 @@ The `CV/` folder contains:
 - `vitali_liashchuk_cv.md` - Markdown format
 - `vitali_liashchuk_cv.pdf` - Compiled PDF
 
-## Conversion Workflow
+## Build Commands
 
-### Convert org-mode to Markdown:
+This project uses [PyInvoke](https://www.pyinvoke.org/) to automate the build process.
+
+### Quick Build:
+```bash
+# Build with styling (weasyprint + custom.css) - default
+invoke build
+
+# Build without styling (pdflatex)
+invoke build-plain
+
+# View file information
+invoke view
+```
+
+### Manual Conversion Workflow
+
+If you prefer to run pandoc commands directly:
+
+**Convert org-mode to Markdown:**
 ```bash
 pandoc CV/vitali_liashchuk_cv.org -o CV/vitali_liashchuk_cv.md
 ```
 
-### Generate PDF from Markdown:
+**Generate PDF:**
 
-**Option 1: Using weasyprint (recommended - simple and clean)**
-```bash
-pandoc CV/vitali_liashchuk_cv.md --pdf-engine=weasyprint -o CV/vitali_liashchuk_cv.pdf
-```
-
-**Option 2: Using pdflatex (alternative)**
+Using pdflatex:
 ```bash
 pandoc CV/vitali_liashchuk_cv.org --pdf-engine=pdflatex -o CV/vitali_liashchuk_cv.pdf
 ```
 
-### With Custom Styling (optional):
-If you have a `custom.css` file:
+Using weasyprint:
 ```bash
-pandoc CV/vitali_liashchuk_cv.md --pdf-engine=weasyprint --css=custom.css -o CV/vitali_liashchuk_cv.pdf
+pandoc CV/vitali_liashchuk_cv.md --pdf-engine=weasyprint -o CV/vitali_liashchuk_cv.pdf
 ```

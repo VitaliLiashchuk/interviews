@@ -9,32 +9,15 @@
 - [[mailto:vitali.liashchuk@gmail.com][vitali.liashchuk@gmail.com]]
 
 ** Summary
-Tech Lead with 10+ years of experience specializing in modern C++ development and team leadership. Proven track record in architecting high-performance, cross-platform systems (Linux, Windows, macOS, iOS, Android) with focus on memory optimization and concurrency. Led teams in developing production SDKs and systems software, mentoring engineers on best practices and performance-critical development. Strong expertise in technical leadership, CI/CD infrastructure, and delivering scalable solutions from concept to deployment.
+Tech Lead with 10+ years of modern C++ experience specializing in high-performance, cross-platform systems (Linux, Windows, macOS, iOS, Android). Expertise in memory optimization, concurrency, technical leadership, and CI/CD infrastructure.
 ** Skills
-*** Core Technical Skills
-- *C++ (10+ years):* Modern C++11/14/17/20, STL, templates, multithreading, async programming with coroutines
-- *Linux Development Environment:* System programming, cross-platform development, performance profiling
-- *Memory Management & Performance Optimization:* Cache optimization, memory pools, profiling, memory-efficient design patterns
-- *Concurrency & Multithreading:* Async programming, coroutines, synchronization primitives
-- *Cross-Platform Development:* Linux, Windows, macOS, iOS, Android; low-level debugging
-
-*** Leadership & Collaboration
-- *Technical Leadership & Team Mentoring:* Code reviews, architectural decisions, best practices
-- *Architecture Design:* System design, performance-critical development, scalable solutions
-- *Communication Skills:* Cross-functional teams, documentation, technical decision-making
-
-*** Development Tools & Infrastructure
-- *Build Systems:* CMake, Make, Gradle
-- *CI/CD & Infrastructure:* Jenkins, GitHub Actions, CI/CD pipelines, Git
-- *Graphics & Rendering:* Vulkan, OpenGL, Metal, Shaders
-
-*** Additional Technical Skills
-- *Game Engines & Platforms:* Unity3D, Unreal Engine, Cocos2d-x, WebGL, Custom engine development
-- *Scripting & Automation:* Python, Bash
-- *AI & Tools:* OpenAI API, GPT-based tools, Retrieval-Augmented Generation (RAG), LlamaIndex, vector databases
+- *Core Technical:* C++ (10+ years, C++11/14/17/20, STL, multithreading, coroutines) | Linux development | Memory management & performance optimization | Concurrency | Cross-platform (Linux, Windows, macOS, iOS, Android)
+- *Leadership & Infrastructure:* Technical leadership & mentoring | Architecture design | CI/CD (Jenkins) | Build systems (CMake, Make, Gradle) | Graphics (Vulkan, OpenGL, Metal)
+- *AI & Tools:* OpenAI API, Retrieval-Augmented Generation (RAG), LlamaIndex | Python, Bash | Emscripten | Game engines (Unity3D, Unreal Engine, Cocos2d-x)
 ** Professional Experience
 *** Tech Lead (C++), Adverty (Dec 2021–Present)
 **** [[http://adverty.com][AdvertySDK]]
+- *Description:* High-performance C++ SDK for developers, enabling cross-platform deployment across mobile, desktop, and web
 - *Used intensively:* C++, Metal, Vulkan, OpenGL, Linux/Windows/macOS/iOS/Android
 - *Achievements:*
   * Successfully led the development and release of the SDK from scratch for cross-platform deployment (Linux, Windows, macOS, iOS, Android)
@@ -90,11 +73,4 @@ Tech Lead with 10+ years of experience specializing in modern C++ development an
   * Refactored and modularized the codebase per platform
 
 *** Earlier Software Engineering Experience (2013–2016)
-**** Multiple Roles (C#), MuGames, Gambino, Playtika
-- *Used intensively:* C#, Xamarin, Autofac, in-house game engines
-- *Highlights:*
-  * Developed mobile casino and social gaming applications using C#, Xamarin
-  * Implemented CI/CD pipelines, ad management systems (Vungle, Chartboost, Unity), and social platform integrations (Facebook, Viber)
-  * Built testing infrastructure and anti-cheating mechanisms
-  * Worked with multithreading, dependency injection, and cross-platform development
-  * Specific projects: WildRide (ad manager, social plugin system), Viber Rude Rider (Viber integration), Caesars Casino (slot machines, sound manager, reels engine), Gambino Slots (slot infrastructure, cheat/debug systems)  
+- Multiple roles at MuGames, Gambino, and Playtika focused on mobile gaming development using C#, Xamarin, and various in-house game engines  
