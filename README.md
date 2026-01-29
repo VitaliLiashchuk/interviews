@@ -1,31 +1,33 @@
 # Interviews
 
-## CV Versions
+## CV
 
-This project contains multiple CV versions tailored for different roles:
+The `CV/` folder contains:
+- `vitali_liashchuk_cv.org` - Source org-mode format
+- `vitali_liashchuk_cv.md` - Markdown format
+- `vitali_liashchuk_cv.pdf` - Compiled PDF
 
-- **CV/** - General/Main CV
-- **CV_BACKEND/** - Backend Developer CV
+## Conversion Workflow
 
-Each folder contains:
-- `cv.org` - Source org-mode format
-- `cv.md` - Markdown format
-- `cv.pdf` - Compiled PDF
+### Convert org-mode to Markdown:
+```bash
+pandoc CV/vitali_liashchuk_cv.org -o CV/vitali_liashchuk_cv.md
+```
 
-## Steps to Make Your Markdown Beautiful
+### Generate PDF from Markdown:
 
-1. **Export org-mode to Markdown:** Use the `org-md-export-as-markdown` command to export your org-mode files to Markdown format.
+**Option 1: Using weasyprint (recommended - simple and clean)**
+```bash
+pandoc CV/vitali_liashchuk_cv.md --pdf-engine=weasyprint -o CV/vitali_liashchuk_cv.pdf
+```
 
-2. **Convert Markdown to PDF:** Utilize Pandoc to convert your Markdown file to PDF. Here's a command example:
+**Option 2: Using pdflatex (alternative)**
+```bash
+pandoc CV/vitali_liashchuk_cv.org --pdf-engine=pdflatex -o CV/vitali_liashchuk_cv.pdf
+```
 
-   For main CV:
-   ```bash
-   pandoc CV/cv.md --pdf-engine=weasyprint --css=custom.css -o CV/cv.pdf
-   pandoc CV/cv.org -o CV/cv.pdf --template=./pandoc-latex-template/eisvogel.tex --listings --pdf-engine=xelatex -V colorlinks=true -V linkcolor=blue -V urlcolor=blue -V toccolor=gray -V pagestyle=empty
-   ```
-
-   For backend CV:
-   ```bash
-   pandoc CV_BACKEND/cv.md --pdf-engine=weasyprint --css=custom.css -o CV_BACKEND/cv.pdf
-   pandoc CV_BACKEND/cv.org -o CV_BACKEND/cv.pdf --template=./pandoc-latex-template/eisvogel.tex --listings --pdf-engine=xelatex -V colorlinks=true -V linkcolor=blue -V urlcolor=blue -V toccolor=gray -V pagestyle=empty
-   ```
+### With Custom Styling (optional):
+If you have a `custom.css` file:
+```bash
+pandoc CV/vitali_liashchuk_cv.md --pdf-engine=weasyprint --css=custom.css -o CV/vitali_liashchuk_cv.pdf
+```
