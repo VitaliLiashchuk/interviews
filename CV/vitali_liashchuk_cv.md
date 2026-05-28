@@ -8,10 +8,11 @@
 
 ## Summary
 
-Tech Lead with 10+ years of modern C++ experience specializing in
-high-performance, cross-platform systems (Linux, Windows, macOS, iOS,
-Android). Expertise in memory optimization, concurrency, technical
-leadership, and CI/CD infrastructure.
+Senior Software Engineer with 10+ years of modern C++ experience
+building cross-platform desktop tools and internal developer tooling for
+graphics and rendering pipelines (Linux, Windows, macOS). Expertise in
+Dear ImGui, graphics fundamentals (Vulkan/OpenGL/Metal), and SDK
+architecture.
 
 ## Skills
 
@@ -19,16 +20,20 @@ leadership, and CI/CD infrastructure.
   multithreading, coroutines) \| Linux development \| Memory management
   & performance optimization \| Concurrency \| Cross-platform (Linux,
   Windows, macOS, iOS, Android)
+- **Desktop Tooling:** Dear ImGui \| Qt (personal projects) \| Internal
+  developer tools \| Graphics (Vulkan, OpenGL, Metal)
 - **Leadership & Infrastructure:** Technical leadership & mentoring \|
   Architecture design \| CI/CD (Jenkins) \| Build systems (CMake, Make,
-  Gradle) \| Graphics (Vulkan, OpenGL, Metal)
+  Gradle)
+- **Game Engine Integration:** Unreal Engine (UE4/UE5) --- C++ plugin
+  development, render pipeline integration, UObject/UTexture lifecycle
+  \| Unity3D native plugin \| Cocos2d-x
 - **AI & Tools:** OpenAI API, Retrieval-Augmented Generation (RAG),
-  LlamaIndex \| Python, Bash \| Emscripten \| Game engines (Unity3D,
-  Unreal Engine, Cocos2d-x)
+  LlamaIndex \| Python, Bash \| Emscripten
 
 ## Professional Experience
 
-### Tech Lead (C++), Adverty (Dec 2021--Present)
+### Senior Software Engineer (C++), Adverty (Dec 2021--Present)
 
 1.  [AdvertySDK](http://adverty.com)
 
@@ -56,12 +61,19 @@ leadership, and CI/CD infrastructure.
       - Implemented high-performance graphics library with
         Vulkan/OpenGL/Metal/DX11 support, focusing on memory efficiency
         and cache optimization
-      - Developed SDK integrations for Unity3D and Unreal Engine with
-        attention to performance on resource-constrained platforms
+      - Developed UE4/UE5 C++ plugin (.uplugin, Build.cs module)
+        integrating SDK into Unreal\'s render pipeline --- synchronizes
+        ad frame data to native UE texture objects, managing render
+        thread lifecycle and cross-thread resource ownership
+      - Developed Unity3D native plugin integration with equivalent
+        render pipeline hooks
       - Created video player with FFmpeg backend, implementing efficient
         memory management for multimedia streaming
       - Implemented memory pool allocators and cache optimization
         strategies for graphics rendering
+      - Built a cross-platform in-SDK debug tool using Dear ImGui,
+        enabling real-time visualization of rendering state, coordinate
+        transforms, and SDK internals across Windows and macOS
       - Conducted performance profiling and optimization across multiple
         platforms (Linux, Windows, macOS, iOS, Android)
       - Optimized memory footprint and CPU performance for
